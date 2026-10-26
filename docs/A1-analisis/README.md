@@ -10,7 +10,7 @@ Situación de aprendizaje SA1 «De las necesidades de la empresa al proyecto» �
 
 | Archivo | Bloque | Estado |
 |---|---|---|
-| [01-empresa.md](01-empresa.md) | B1 · Caracterización de la empresa | En curso |
+| [01-empresa.md](01-empresa.md) | B1 · Caracterización de la empresa | Rellenado |
 
 Los bloques B2 a B6 se irán añadiendo a medida que se trabajen en clase.
 
