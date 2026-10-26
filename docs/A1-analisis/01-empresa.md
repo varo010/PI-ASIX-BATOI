@@ -4,25 +4,20 @@
 
 **Tabla 3.** Ficha de caracterización de Grutinet
 
-| Dato | Valor | Fuente |
-|---|---|---|
-| Nombre |  |  |
-| Forma jurídica y CIF |  |  |
-| Antigüedad |  |  |
-| Sector |  |  |
-| Actividad principal |  |  |
-| Productos o servicios |  |  |
-| Sedes o centros |  |  |
-| Trabajadores |  |  |
-| Tamaño |  |  |
-| Volumen de actividad |  |  |
-| Tipo de clientes |  |  |
+| Dato | Valor |
+|---|---|
+| Nombre de la empresa | Grutinet S.L. |
+| Sector de actividad | Gestión de marketplaces |
+| Actividad principal | El comercio electrónico y la distribución integral para marcas y tiendas online, operando de manera destacada como una de las principales plataformas de dropshipping en España y Europa |
+| Productos o servicios | Gestión de marketplaces, y proveedor de dropshipping y canal mayorista |
+| Tamaño aproximado | De 2,5 a 8 millones de euros anuales |
+| Número de sedes o centros | Dispone de sus oficinas centrales y su almacén logístico unificado |
+| Número aproximado de trabajadores | Aproximadamente 70 empleados |
+| Tipo de clientes | B2B (Business to Business) |
 
 ## Relación con clientes, proveedores y otras entidades
 
-
-
-_[Figura: Relaciones de Grutinet con su entorno y la información que intercambia. Insertar `img/relaciones.png`.]_
+Conecta directamente a los fabricantes y marcas con el consumidor final, utilizando los marketplaces y las agencias de transporte como puentes operativos fundamentales.
 
 ## Datos confirmados y supuestos
 
