@@ -25,7 +25,7 @@ Situación de aprendizaje SA1 «De las necesidades de la empresa al proyecto» �
 
 Cadena que sigue el dossier: **empresa → necesidades → oportunidades → proyecto → requisitos**.
 
-La memoria completa maquetada está en [`entregas/A1_Grutinet_memoria.pdf`](../../entregas/A1_Grutinet_memoria.pdf). El original editable es [`entregas/A1_Grutinet_memoria.odt`](../../entregas/A1_Grutinet_memoria.odt) (LibreOffice Writer). Si se edita la memoria, hay que actualizar también estos Markdown.
+Los Markdown de esta carpeta son **plantillas**: el grupo los rellena con la memoria delante, bloque a bloque. La memoria completa maquetada está en [`entregas/A1_Grutinet_memoria.pdf`](../../entregas/A1_Grutinet_memoria.pdf). El original editable es [`entregas/A1_Grutinet_memoria.odt`](../../entregas/A1_Grutinet_memoria.odt) (LibreOffice Writer). Si se edita la memoria, hay que actualizar también estos Markdown.
 
 ## Calendario
 

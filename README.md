@@ -20,7 +20,7 @@ entregas/           Documentos entregados (PDF y original editable)
 
 | Actividad | Contenido | Estado |
 |---|---|---|
-| [A1 · Análisis de la empresa y definición del proyecto](docs/A1-analisis/) | Dossier de análisis, necesidades y requisitos | Memoria redactada, en revisión por el grupo |
+| [A1 · Análisis de la empresa y definición del proyecto](docs/A1-analisis/) | Dossier de análisis, necesidades y requisitos | Plantillas en `docs/A1-analisis/` para rellenar a partir de la memoria |
 
 ## Forma de trabajo
 
