@@ -1,0 +1,20 @@
+digraph R {
+  graph [rankdir=LR, nodesep=0.35, ranksep=0.8, fontname="Arial", bgcolor="white"];
+  node  [shape=box, style="rounded,filled", fontname="Arial", fontsize=11, fillcolor="#E8EAF6", color="#000080", penwidth=1.2];
+  edge  [fontname="Arial", fontsize=9, color="#404040"];
+  marcas [label=<<b>Marcas y fabricantes</b><br/><font point-size="9">Clientes B2B</font>>];
+  g      [label=<<b>GRUTINET</b><br/><font point-size="9">Oficinas + almacén<br/>Ontinyent</font>>, fillcolor="#000080", fontcolor="white"];
+  mp     [label=<<b>Marketplaces</b><br/><font point-size="9">Amazon, Shein, Miravia,<br/>TikTok Shop, Temu…</font>>];
+  tr     [label=<<b>Transportistas</b>>];
+  cf     [label=<<b>Consumidor final</b><br/><font point-size="9">B2C</font>>];
+  ext    [label=<<b>Servicios externos</b><br/><font point-size="9">Asesoría, auditoría,<br/>soporte técnico</font>>, fillcolor="#F2F2F2"];
+  marcas -> g [label="producto, datos,\ncontrato"];
+  g -> marcas [label="informes,\nliquidaciones"];
+  g -> mp [label="fichas, precios,\nstock, publicidad"];
+  mp -> g [label="pedidos, métricas,\ncomisiones"];
+  g -> tr [label="bultos diarios"];
+  tr -> cf [label="entrega"];
+  cf -> mp [label="compra, valoración"];
+  cf -> g [label="dudas, devoluciones", style=dashed];
+  ext -> g [style=dashed, arrowhead=none];
+}
