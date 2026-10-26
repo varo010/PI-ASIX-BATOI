@@ -4,7 +4,7 @@ Repositorio del Proyecto Intermodular (PI) del grupo 3 de 1.º de ASIX del CIPFP
 
 **Empresa del proyecto:** Grutinet S.L., empresa de Ontinyent que gestiona la venta de marcas y fabricantes en marketplaces (Amazon, Shein, Miravia, TikTok Shop…) y tiene almacén logístico propio.
 
-**Integrantes:** Álvaro, Alex, Mauro, Adam, Iván y Juan Pablo.
+**Integrantes:** Álvaro, Alex, Mauro, Adam, Ivan y Juan Pablo.
 
 ## Estructura
 
