@@ -4,8 +4,6 @@ Repositorio del Proyecto Intermodular (PI) del grupo 3 de 1.º de ASIX del CIPFP
 
 **Empresa del proyecto:** Grutinet S.L., empresa de Ontinyent que gestiona la venta de marcas y fabricantes en marketplaces (Amazon, Shein, Miravia, TikTok Shop…) y tiene almacén logístico propio.
 
-**Proyecto:** Proyecto NEXO, el Sistema Informático Empresarial de Grutinet. Su objetivo es unir la oficina, el almacén y los canales de venta en un mismo sistema.
-
 **Integrantes:** Álvaro, Alex, Mauro, Adam, Iván y Juan Pablo.
 
 ## Estructura
@@ -13,14 +11,13 @@ Repositorio del Proyecto Intermodular (PI) del grupo 3 de 1.º de ASIX del CIPFP
 ```
 docs/
   A1-analisis/      A1 · Análisis de la empresa y definición del proyecto
-entregas/           Documentos entregados (PDF y original editable)
 ```
 
 ## Actividades
 
 | Actividad | Contenido | Estado |
 |---|---|---|
-| [A1 · Análisis de la empresa y definición del proyecto](docs/A1-analisis/) | Dossier de análisis, necesidades y requisitos | Plantillas en `docs/A1-analisis/` para rellenar a partir de la memoria |
+| [A1 · Análisis de la empresa y definición del proyecto](docs/A1-analisis/) | Dossier de análisis, necesidades y requisitos | En curso: B1 · Caracterización de la empresa |
 
 ## Forma de trabajo
 
