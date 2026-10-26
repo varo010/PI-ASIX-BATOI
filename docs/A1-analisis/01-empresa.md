@@ -1,6 +1,6 @@
 # 7.1. Presentación y caracterización de la empresa (B1)
 
-_[Completar.]_
+
 
 **Tabla 3.** Ficha de caracterización de Grutinet
 
@@ -20,13 +20,12 @@ _[Completar.]_
 
 ## Relación con clientes, proveedores y otras entidades
 
-_[Completar.]_
+
 
 _[Figura: Relaciones de Grutinet con su entorno y la información que intercambia. Insertar `img/relaciones.png`.]_
 
 ## Datos confirmados y supuestos
 
-_[Completar.]_
 
 **Tabla 4.** Supuestos de trabajo y su justificación
 
