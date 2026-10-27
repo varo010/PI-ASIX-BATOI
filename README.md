@@ -17,7 +17,7 @@ docs/
 
 | Actividad | Contenido | Estado |
 |---|---|---|
-| [A1 · Análisis de la empresa y definición del proyecto](docs/A1-analisis/) | Dossier de análisis, necesidades y requisitos | En curso: B1 · Caracterización de la empresa |
+| [A1 · Análisis de la empresa y definición del proyecto](docs/A1-analisis/) | Dossier de análisis, necesidades y requisitos | En curso: B1 rellenado; siguientes, B2 · Organización y B3 · Necesidades |
 
 ## Forma de trabajo
 
