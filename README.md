@@ -17,7 +17,7 @@ docs/
 
 | Actividad | Contenido | Estado |
 |---|---|---|
-| [A1 · Análisis de la empresa y definición del proyecto](docs/A1-analisis/) | Dossier de análisis, necesidades y requisitos | En curso: sesión 1 hecha (B1 y lista de departamentos de B2); siguientes, tabla y organigrama de B2 y B3 · Necesidades |
+| [A1 · Análisis de la empresa y definición del proyecto](docs/A1-analisis/) | Dossier de análisis, necesidades y requisitos | En curso: B1, B3 y B4 (preguntas y oportunidades) hechos; B2 con tabla de organización; faltan el organigrama de B2, la justificación de B4, B5 y B6 |
 
 ## Forma de trabajo
 
