@@ -62,7 +62,10 @@ Respondemos a las preguntas del enunciado pensando en cómo trabaja Grutinet (B1
 
 ## Oportunidades de mejora
 
-_[Completar.]_
+1. **Expandirse a nuevos mercados internacionales.** Vender en otros países le permitiría llegar a más consumidores, captar nuevas marcas y aumentar sus posibilidades de crecimiento.
+2. **Aprovechar el crecimiento del comercio electrónico para incorporar nuevos clientes y marketplaces.** Muchas empresas quieren vender por internet, pero no saben cómo gestionar todo el proceso. Grutinet puede ayudarlas ofreciendo sus servicios especializados y facilitándoles el acceso a nuevos canales de venta.
+3. **Utilizar los datos para tomar mejores decisiones.** Analizar las ventas y las preferencias de los consumidores le permitiría identificar qué productos funcionan mejor, ajustar los precios y evitar gastos innecesarios.
+4. **Apostar por una logística más sostenible,** reduciendo embalajes y transportes innecesarios. Esto ayudaría a ahorrar costes y a disminuir su impacto ambiental.
 
 **Tabla 8.** Oportunidades de mejora y necesidades de las que parten
 
