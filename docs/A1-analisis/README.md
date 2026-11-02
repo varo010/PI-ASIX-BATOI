@@ -22,8 +22,8 @@ Los bloques que faltan (B3, B5 y B6) se irán añadiendo a medida que se trabaje
 
 | Sesión | Fecha | Trabajo |
 |---|---|---|
-| S1 | Lunes 19/10/2026 | B1 y lista de departamentos |
-| S2 | Lunes 26/10/2026 | B2 (tabla y organigrama) y B3 |
-| S3 | Lunes 02/11/2026 | B4, B5 y B6 |
-| En casa | Domingo 08/11/2026 | Matriz de trazabilidad y montaje del dossier |
-| S4 | Lunes 09/11/2026 | Revisión, PDF, documento general y bitácoras |
+| S1 | Lunes 26/10/2026 | B1 y lista de departamentos |
+| S2 | Lunes 02/11/2026 | B2 (tabla y organigrama) y B3 |
+| S3 | Lunes 09/11/2026 | B4, B5 y B6 |
+| En casa | Domingo 15/11/2026 | Matriz de trazabilidad y montaje del dossier |
+| S4 | Lunes 16/11/2026 | Revisión, PDF, documento general y bitácoras |

@@ -22,7 +22,7 @@ Ninguna fuente pública describe la organización interna de Grutinet, así que 
 - **Vigilancia:** no consta personal propio. Si hace falta, sería un servicio externo (alarma y vigilancia del almacén).
 - **Producción:** Grutinet no fabrica. Gestiona y envía producto de las marcas.
 
-## Pendiente para la sesión 2 (26/10)
+## Pendiente para la sesión 2 (02/11)
 
 **Tabla 5.** Departamentos de Grutinet: funciones, perfiles, información y comunicación
 
