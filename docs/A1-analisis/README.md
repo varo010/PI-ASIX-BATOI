@@ -12,9 +12,10 @@ Situación de aprendizaje SA1 «De las necesidades de la empresa al proyecto» �
 |---|---|---|
 | [01-empresa.md](01-empresa.md) | B1 · Caracterización de la empresa | Hecho |
 | [fuentes.md](fuentes.md) | B1 · Fuentes consultadas y supuestos | Hecho |
-| [02-organizacion.md](02-organizacion.md) | B2 · Organización interna | Lista de departamentos hecha; falta tabla y organigrama |
+| [02-organizacion.md](02-organizacion.md) | B2 · Organización interna | Lista de departamentos y tabla de organización hechas; falta el organigrama |
 | [03-necesidades.md](03-necesidades.md) | B3 · Necesidades detectadas | Hecho (sesión 2) |
 | [04-oportunidades.md](04-oportunidades.md) | B4 · Oportunidades de mejora y justificación | Preguntas de mejora y oportunidades hechas; falta la justificación |
+| [pdf/](pdf/) | Versiones maquetadas en PDF de B2, B3 y la sesión 2 | Hecho |
 | [bitacora-grupo.md](bitacora-grupo.md) | Bitácora de grupo | S1 hecha |
 
 Los bloques que faltan (B5 y B6) se irán añadiendo a medida que se trabajen en clase.

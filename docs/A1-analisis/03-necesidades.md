@@ -33,3 +33,5 @@ Documento actualizado con la estructura departamental y directiva completa de la
 | Transversal (Toda la empresa) | Sistema de autenticación centralizada y control de accesos de usuarios | Accesos no autorizados a sistemas críticos y mala gestión de seguridad en las altas/bajas de personal. | Alta |
 | Transversal (Toda la empresa) | Separación lógica del tráfico de red (oficinas, almacén, invitados) | Propagación de malware desde redes de invitados y congestión que afecte al rendimiento del almacén. | Media |
 | Transversal (Toda la empresa) | Copias de seguridad automatizadas y protección frente a cortes eléctricos | Pérdida de datos irrecuperable (por ransomware o fallos físicos) y daños en el hardware por apagones. | Alta |
+
+Versiones maquetadas en PDF: [Necesidades por departamento B3](pdf/Necesidades%20por%20departamento%20B3.pdf) · [Sesión 2 · Necesidades y oportunidades](pdf/Sesi%C3%B3n%202%20%C2%B7%20Necesidades%20y%20oportunidades.pdf).
