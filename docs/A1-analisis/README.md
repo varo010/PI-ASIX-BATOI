@@ -10,9 +10,12 @@ Situación de aprendizaje SA1 «De las necesidades de la empresa al proyecto» �
 
 | Archivo | Bloque | Estado |
 |---|---|---|
-| [01-empresa.md](01-empresa.md) | B1 · Caracterización de la empresa | Rellenado |
+| [01-empresa.md](01-empresa.md) | B1 · Caracterización de la empresa | Hecho |
+| [fuentes.md](fuentes.md) | B1 · Fuentes consultadas y supuestos | Hecho |
+| [02-organizacion.md](02-organizacion.md) | B2 · Organización interna | Lista de departamentos hecha; falta tabla y organigrama |
+| [bitacora-grupo.md](bitacora-grupo.md) | Bitácora de grupo | S1 hecha |
 
-Los bloques B2 a B6 se irán añadiendo a medida que se trabajen en clase.
+Los bloques B3 a B6 se irán añadiendo a medida que se trabajen en clase.
 
 ## Calendario
 
