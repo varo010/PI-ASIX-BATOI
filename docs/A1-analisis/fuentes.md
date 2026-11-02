@@ -6,13 +6,13 @@ Registro de las fuentes consultadas para caracterizar Grutinet. Cada dato del bl
 
 | # | Fuente | URL | Qué se ha sacado | Fecha de consulta |
 |---|---|---|---|---|
-| F1 | Web oficial de Grutinet · Inicio | https://grutinet.com | Actividad, lema («Generamos negocio en canales digitales»), canales de venta | 19/10/2026 |
-| F2 | Web oficial de Grutinet · Sobre nosotros | https://grutinet.com/sobre-nosotros | Sede, instalaciones (almacén, oficinas, sala de reuniones), trayectoria de «más de dos décadas», marcas con las que trabaja | 19/10/2026 · revisada 02/11/2026 |
-| F3 | Web oficial de Grutinet · Servicios | https://grutinet.com/servicios | Servicios (gestión de marketplaces, Paid Media, logística, atención al cliente, reputación, expansión internacional) y volumen de envíos en Shein | 19/10/2026 |
-| F4 | Empresia · Grutinet SL | https://www.empresia.es/empresa/grutinet/ | Forma jurídica, CIF, fecha de constitución, CNAE, n.º de empleados, facturación, auditor | 19/10/2026 · revisada 02/11/2026 |
-| F5 | einforma · Grutinet SL | https://www.einforma.com/informacion-empresa/grutinet | Contraste de CIF, forma jurídica y tramo de tamaño | 19/10/2026 |
-| F6 | elEconomista Empresite · Grutinet SL | https://empresite.eleconomista.es/GRUTINET.html | Contraste del n.º de empleados y la actividad | 19/10/2026 |
-| F7 | LinkedIn · Grutinet S.L. | https://www.linkedin.com/company/grutinet-s.l. | Tramo de tamaño (11-50 empleados), año de inicio de actividad | 19/10/2026 |
+| F1 | Web oficial de Grutinet · Inicio | https://grutinet.com | Actividad, lema («Generamos negocio en canales digitales»), canales de venta | 26/10/2026 |
+| F2 | Web oficial de Grutinet · Sobre nosotros | https://grutinet.com/sobre-nosotros | Sede, instalaciones (almacén, oficinas, sala de reuniones), trayectoria de «más de dos décadas», marcas con las que trabaja | 26/10/2026 · revisada 02/11/2026 |
+| F3 | Web oficial de Grutinet · Servicios | https://grutinet.com/servicios | Servicios (gestión de marketplaces, Paid Media, logística, atención al cliente, reputación, expansión internacional) y volumen de envíos en Shein | 26/10/2026 |
+| F4 | Empresia · Grutinet SL | https://www.empresia.es/empresa/grutinet/ | Forma jurídica, CIF, fecha de constitución, CNAE, n.º de empleados, facturación, auditor | 26/10/2026 · revisada 02/11/2026 |
+| F5 | einforma · Grutinet SL | https://www.einforma.com/informacion-empresa/grutinet | Contraste de CIF, forma jurídica y tramo de tamaño | 26/10/2026 |
+| F6 | elEconomista Empresite · Grutinet SL | https://empresite.eleconomista.es/GRUTINET.html | Contraste del n.º de empleados y la actividad | 26/10/2026 |
+| F7 | LinkedIn · Grutinet S.L. | https://www.linkedin.com/company/grutinet-s.l. | Tramo de tamaño (11-50 empleados), año de inicio de actividad | 26/10/2026 |
 
 ## Datos que dan las fuentes
 
