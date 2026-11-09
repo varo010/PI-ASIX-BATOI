@@ -161,8 +161,30 @@ Estas nueve necesidades de la tabla 6 no encajan en ninguna de las siete oportun
 | D5 · Marketing y Paid Media / D6 · Análisis de datos | Disponer de datos de ventas centralizados y fiables | Decisiones comerciales basadas en datos erróneos y campañas con bajo retorno (ROI) | Unificar los datos de ventas de todos los canales como única fuente de verdad | Media |
 | D8 · Atención al cliente | Acceso rápido y directo al estado de los pedidos y gestión de incidencias | Tiempos de respuesta lentos, insatisfacción del cliente B2B y pérdida de reputación | Consultar el estado de cualquier pedido y registrar las incidencias en un único lugar | Alta |
 
+Versión maquetada en PDF de la lista de oportunidades (con los nombres de departamento del primer borrador): [B4 · Lista de oportunidades de mejora – Grutinet](pdf/B4%20%C2%B7%20Lista%20de%20oportunidades%20de%20mejora%20%E2%80%93%20Grutinet.pdf).
+
 ## Justificación del proyecto
 
-Grutinet gestiona un volumen alto de pedidos y de información con una plantilla repartida en nueve departamentos que dependen unos de otros: lo que se decide o se vende en las oficinas se ejecuta en el almacén. Un Sistema Informático Empresarial permitiría centralizar usuarios y datos, proteger la información, reducir el trabajo manual repetitivo, detectar los fallos antes de que afecten a las ventas y dejar la infraestructura lista para crecer. Con ello, la empresa ganaría eficiencia, seguridad y capacidad de respuesta ante las marcas y los compradores.
+### Contexto de la empresa
 
-Versión maquetada en PDF (con los nombres de departamento del primer borrador): [B4 · Lista de oportunidades de mejora – Grutinet](pdf/B4%20%C2%B7%20Lista%20de%20oportunidades%20de%20mejora%20%E2%80%93%20Grutinet.pdf).
+Grutinet es una empresa de venta en marketplaces con una sede única que reúne oficinas y almacén. Trabaja con marcas y fabricantes (B2B), con origen mayorista y de dropshipping, y llega a preparar unos 440 pedidos diarios solo en Shein. Su plantilla se reparte en nueve departamentos que dependen unos de otros: lo que se decide o se vende en las oficinas se ejecuta en el almacén. Toda su actividad depende de plataformas digitales, por lo que una caída del sistema o un error en los datos afecta de inmediato a las ventas, a la logística y a la facturación.
+
+### Por qué necesita un Sistema Informático Empresarial
+
+Las necesidades detectadas en el Bloque 3 muestran riesgos que hoy se pueden evitar con un sistema informático bien diseñado.
+
+En primer lugar, centralizar la gestión de usuarios y controlar los accesos reduce los accesos no autorizados y ordena las altas y bajas de personal. Un servidor de archivos con carpetas por departamento y permisos por grupo protege la información confidencial y evita fugas, descontrol documental e incumplimientos normativos.
+
+En segundo lugar, una base de datos de productos única, sincronizada con los marketplaces y con el inventario del almacén, evita errores de stock y de precios y reduce el trabajo manual repetitivo. Una red interna que cubra oficinas y almacén, junto con un canal de comunicación y un sistema de incidencias compartido, elimina cuellos de botella en la preparación de pedidos y mejora la coordinación entre departamentos.
+
+En tercer lugar, la separación de la red en zonas (oficinas, almacén e invitados), la autenticación en dos pasos y el registro de accesos limitan la propagación de malware. La monitorización de servidores, red y servicios, con alertas automáticas y copias de seguridad verificadas, permite detectar los fallos antes de que paralicen la facturación y la logística, y recuperar los datos ante un ransomware o un apagón.
+
+Además, el sistema aporta información unificada y accesible desde cualquier lugar a Dirección, Marketing y Financiero, mejora el seguimiento de clientes y marcas B2B, anticipa las compras a partir de las ventas reales y facilita el control de importaciones, exportaciones y documentación aduanera.
+
+Finalmente, como la empresa crece en marcas, productos y pedidos, la infraestructura debe estar dimensionada con margen, con un direccionamiento IP organizado por departamentos y servicios que puedan ampliarse con facilidad, para evitar rehacerla en cada ampliación.
+
+### Conclusión
+
+Un Sistema Informático Empresarial permitiría a Grutinet centralizar usuarios y datos, proteger la información, reducir el trabajo manual, detectar los fallos antes de que afecten a las ventas y dejar la infraestructura lista para crecer. Con ello, la empresa ganaría eficiencia, seguridad y capacidad de respuesta ante las marcas y los compradores.
+
+Versión maquetada en PDF: [B4 · Justificación del Sistema Informático Empresarial – Grutinet](pdf/B4%20%C2%B7%20Justificaci%C3%B3n%20del%20Sistema%20Inform%C3%A1tico%20Empresarial%20%E2%80%93%20Grutinet.pdf).
