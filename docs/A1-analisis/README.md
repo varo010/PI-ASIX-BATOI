@@ -14,13 +14,20 @@ Situación de aprendizaje SA1 «De las necesidades de la empresa al proyecto» �
 | [fuentes.md](fuentes.md) | B1 · Fuentes consultadas y supuestos | Hecho |
 | [02-organizacion.md](02-organizacion.md) | B2 · Organización interna | Hecho: departamentos D1-D9, organigrama y tabla de organización |
 | [03-necesidades.md](03-necesidades.md) | B3 · Necesidades detectadas | Hecho: tabla por departamento (D1-D9) y priorización de riesgos |
-| [04-oportunidades.md](04-oportunidades.md) | B4 · Oportunidades de mejora y justificación | Hecho: preguntas de mejora, lista de oportunidades y justificación |
+| [04-oportunidades.md](04-oportunidades.md) | B4 · Oportunidades de mejora y justificación | Hecho: preguntas de mejora, lista de oportunidades y justificación del Sistema Informático Empresarial |
 | [img/](img/) | Organigrama de Grutinet | Hecho |
 | [05-proyecto.md](05-proyecto.md) | B5 · Definición inicial del proyecto | Hecho (sesión 3) |
 | [06-requisitos.md](06-requisitos.md) | B6 · Catálogo inicial de requisitos | Hecho (sesión 3) |
 | [07-trazabilidad.md](07-trazabilidad.md) | Matriz de trazabilidad necesidad → oportunidad → requisito | Hecho |
 | [pdf/](pdf/) | Versiones maquetadas en PDF de B2, B3, B4 y la sesión 2 | Hecho |
 | [bitacora-grupo.md](bitacora-grupo.md) | Bitácora de grupo | S1, S2 y S3 hechas |
+
+## Pregunta final del reto
+
+«¿Podemos explicar claramente por qué nuestra empresa necesita este proyecto y qué requisitos debe cumplir?»
+
+- **Por qué lo necesita:** [justificación del proyecto (B4)](04-oportunidades.md#justificación-del-proyecto).
+- **Qué requisitos debe cumplir:** [catálogo de requisitos (B6)](06-requisitos.md).
 
 ## Calendario
 

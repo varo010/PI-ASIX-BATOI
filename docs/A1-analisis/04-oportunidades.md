@@ -85,19 +85,19 @@ Cada oportunidad parte de una necesidad detectada en el Bloque 3 (apartado 7.3, 
 
 ### 2. Compartir información de forma segura
 
-**Necesidad del Bloque 3:** sistema de documentación compartida con acceso restringido a los datos (D2 · Administración y finanzas, prioridad Alta) y acceso claro y remoto a la información para decidir (D1 · Dirección / Gerencia, prioridad Alta).
+**Necesidad del Bloque 3:** sistema de documentación compartida con acceso restringido a los datos (D2 · Administración y finanzas, prioridad Alta)).
 
-**Problema o riesgo:** fugas de información confidencial, descontrol documental e incumplimiento normativo; en D1 · Dirección / Gerencia, dependencia física de estar en las oficinas centrales.
+**Problema o riesgo:** fugas de información confidencial, descontrol documental e incumplimiento normativo.
 
 **Mejora propuesta:** un servidor de archivos con carpetas por departamento y permisos por grupo, además de una carpeta compartida con la asesoría y el auditor con acceso restringido.
 
-**Departamentos beneficiados:** D2 · Administración y finanzas, D1 · Dirección / Gerencia y D3 · Comercial.
+**Departamentos beneficiados:** D2 · Administración y finanzas y D3 · Comercial.
 
 ### 3. Mejorar la comunicación entre oficina y almacén
 
-**Necesidad del Bloque 3:** consulta instantánea de stock y pedidos y cobertura Wi-Fi en el almacén para lectores (D7 · Logística y almacén, Alta), y separación lógica del tráfico de red entre oficinas, almacén e invitados (Transversal, Media). Enlaza con la necesidad general de buena comunicación entre departamentos.
+**Necesidad del Bloque 3:** consulta instantánea de stock y pedidos y cobertura Wi-Fi en el almacén para lectores (D7 · Logística y almacén, prioridad Alta). Enlaza con la necesidad general de buena comunicación entre departamentos.
 
-**Problema o riesgo:** cuellos de botella en la preparación de pedidos (picking), envíos erróneos y paradas operativas; congestión de red que afecta al rendimiento del almacén y propagación de malware desde redes de invitados.
+**Problema o riesgo:** cuellos de botella en la preparación de pedidos (picking), envíos erróneos y paradas operativas.
 
 **Mejora propuesta:** una red interna que cubra oficinas y almacén, junto con un canal de comunicación interno y un sistema de incidencias compartido.
 
@@ -115,13 +115,13 @@ Cada oportunidad parte de una necesidad detectada en el Bloque 3 (apartado 7.3, 
 
 ### 5. Controlar mejor el acceso a los recursos
 
-**Necesidad del Bloque 3:** la misma necesidad transversal de control de accesos que en la oportunidad 1, vista desde los recursos: documentación con acceso restringido (D2 · Administración y finanzas, Alta) y datos de empleados y horarios (D2 · Administración y finanzas, Media).
+**Necesidad del Bloque 3:** separación lógica del tráfico de red entre oficinas, almacén e invitados (Transversal, prioridad Media), junto con el control de accesos de la necesidad transversal de la oportunidad 1.
 
-**Problema o riesgo:** accesos no autorizados a sistemas críticos, fugas de información confidencial y sanciones por incumplir la normativa de fichaje.
+**Problema o riesgo:** propagación de malware desde redes de invitados y congestión de red que afecta al rendimiento del almacén.
 
-**Mejora propuesta:** permisos por rol y departamento, contraseñas robustas, autenticación en dos pasos en las cuentas críticas y registro de accesos.
+**Mejora propuesta:** permisos por rol y departamento, separación de la red en zonas (oficinas, almacén e invitados), autenticación en dos pasos en las cuentas críticas y registro de accesos.
 
-**Departamentos beneficiados:** D2 · Administración y finanzas y D1 · Dirección / Gerencia.
+**Departamentos beneficiados:** toda la empresa, en especial D7 · Logística y almacén y D2 · Administración y finanzas.
 
 ### 6. Detectar incidencias de forma automática
 
@@ -145,12 +145,13 @@ Cada oportunidad parte de una necesidad detectada en el Bloque 3 (apartado 7.3, 
 
 ### Oportunidades adicionales: otras necesidades del Bloque 3
 
-Estas ocho necesidades de la tabla 6 no encajan en ninguna de las siete oportunidades anteriores, por lo que se recogen aquí con su propia mejora.
+Estas nueve necesidades de la tabla 6 no encajan en ninguna de las siete oportunidades anteriores, por lo que se recogen aquí con su propia mejora.
 
 **Tabla 8.** Oportunidades adicionales
 
 | Departamento | Necesidad del Bloque 3 | Problema o riesgo | Oportunidad de mejora | Prioridad |
 |---|---|---|---|---|
+| D1 · Dirección / Gerencia | Información clara para la toma de decisiones y capacidad de acceso remoto | Parálisis estratégica ante imprevistos y dependencia física de estar en las oficinas centrales | Ofrecer a la dirección información unificada y accesible desde cualquier lugar para decidir con rapidez | Alta |
 | D3 · Comercial | CRM accesible en movilidad para la red de ventas | Pérdida de oportunidades comerciales y falta de seguimiento de las grandes cuentas B2B | Centralizar el seguimiento de marcas y clientes B2B y poder consultarlo desde cualquier lugar | Alta |
 | D2 · Administración y finanzas (finanzas) | Cuadros de mando en tiempo real e integración bancaria/ERP automatizada | Riesgo de impagos, desajustes de tesorería y retrasos en los cierres mensuales | Automatizar la conciliación bancaria y ofrecer una visión financiera actualizada | Alta |
 | D7 · Logística y almacén (aprovisionamiento) | Previsión automatizada de aprovisionamiento conectada a las ventas | Roturas de stock en productos clave o exceso de inventario inmovilizado | Anticipar las compras a partir de los datos de venta reales | Alta |
@@ -160,8 +161,30 @@ Estas ocho necesidades de la tabla 6 no encajan en ninguna de las siete oportuni
 | D5 · Marketing y Paid Media / D6 · Análisis de datos | Disponer de datos de ventas centralizados y fiables | Decisiones comerciales basadas en datos erróneos y campañas con bajo retorno (ROI) | Unificar los datos de ventas de todos los canales como única fuente de verdad | Media |
 | D8 · Atención al cliente | Acceso rápido y directo al estado de los pedidos y gestión de incidencias | Tiempos de respuesta lentos, insatisfacción del cliente B2B y pérdida de reputación | Consultar el estado de cualquier pedido y registrar las incidencias en un único lugar | Alta |
 
+Versión maquetada en PDF de la lista de oportunidades (con los nombres de departamento del primer borrador): [B4 · Lista de oportunidades de mejora – Grutinet](pdf/B4%20%C2%B7%20Lista%20de%20oportunidades%20de%20mejora%20%E2%80%93%20Grutinet.pdf).
+
 ## Justificación del proyecto
 
-Grutinet gestiona un volumen alto de pedidos y de información con una plantilla repartida en nueve departamentos que dependen unos de otros: lo que se decide o se vende en las oficinas se ejecuta en el almacén. Un Sistema Informático Empresarial permitiría centralizar usuarios y datos, proteger la información, reducir el trabajo manual repetitivo, detectar los fallos antes de que afecten a las ventas y dejar la infraestructura lista para crecer. Con ello, la empresa ganaría eficiencia, seguridad y capacidad de respuesta ante las marcas y los compradores.
+### Contexto de la empresa
 
-Versión maquetada en PDF (con los nombres de departamento del primer borrador): [B4 · Lista de oportunidades de mejora – Grutinet](pdf/B4%20%C2%B7%20Lista%20de%20oportunidades%20de%20mejora%20%E2%80%93%20Grutinet.pdf).
+Grutinet es una empresa de venta en marketplaces con una sede única que reúne oficinas y almacén. Trabaja con marcas y fabricantes (B2B), con origen mayorista y de dropshipping, y llega a preparar unos 440 pedidos diarios solo en Shein. Su plantilla se reparte en nueve departamentos que dependen unos de otros: lo que se decide o se vende en las oficinas se ejecuta en el almacén. Toda su actividad depende de plataformas digitales, por lo que una caída del sistema o un error en los datos afecta de inmediato a las ventas, a la logística y a la facturación.
+
+### Por qué necesita un Sistema Informático Empresarial
+
+Las necesidades detectadas en el Bloque 3 muestran riesgos que hoy se pueden evitar con un sistema informático bien diseñado.
+
+En primer lugar, centralizar la gestión de usuarios y controlar los accesos reduce los accesos no autorizados y ordena las altas y bajas de personal. Un servidor de archivos con carpetas por departamento y permisos por grupo protege la información confidencial y evita fugas, descontrol documental e incumplimientos normativos.
+
+En segundo lugar, una base de datos de productos única, sincronizada con los marketplaces y con el inventario del almacén, evita errores de stock y de precios y reduce el trabajo manual repetitivo. Una red interna que cubra oficinas y almacén, junto con un canal de comunicación y un sistema de incidencias compartido, elimina cuellos de botella en la preparación de pedidos y mejora la coordinación entre departamentos.
+
+En tercer lugar, la separación de la red en zonas (oficinas, almacén e invitados), la autenticación en dos pasos y el registro de accesos limitan la propagación de malware. La monitorización de servidores, red y servicios, con alertas automáticas y copias de seguridad verificadas, permite detectar los fallos antes de que paralicen la facturación y la logística, y recuperar los datos ante un ransomware o un apagón.
+
+Además, el sistema aporta información unificada y accesible desde cualquier lugar a Dirección, Marketing y Financiero, mejora el seguimiento de clientes y marcas B2B, anticipa las compras a partir de las ventas reales y facilita el control de importaciones, exportaciones y documentación aduanera.
+
+Finalmente, como la empresa crece en marcas, productos y pedidos, la infraestructura debe estar dimensionada con margen, con un direccionamiento IP organizado por departamentos y servicios que puedan ampliarse con facilidad, para evitar rehacerla en cada ampliación.
+
+### Conclusión
+
+Un Sistema Informático Empresarial permitiría a Grutinet centralizar usuarios y datos, proteger la información, reducir el trabajo manual, detectar los fallos antes de que afecten a las ventas y dejar la infraestructura lista para crecer. Con ello, la empresa ganaría eficiencia, seguridad y capacidad de respuesta ante las marcas y los compradores.
+
+Versión maquetada en PDF: [B4 · Justificación del Sistema Informático Empresarial – Grutinet](pdf/B4%20%C2%B7%20Justificaci%C3%B3n%20del%20Sistema%20Inform%C3%A1tico%20Empresarial%20%E2%80%93%20Grutinet.pdf).
