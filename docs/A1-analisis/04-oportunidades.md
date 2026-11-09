@@ -85,19 +85,19 @@ Cada oportunidad parte de una necesidad detectada en el Bloque 3 (apartado 7.3, 
 
 ### 2. Compartir información de forma segura
 
-**Necesidad del Bloque 3:** sistema de documentación compartida con acceso restringido a los datos (D2 · Administración y finanzas, prioridad Alta) y acceso claro y remoto a la información para decidir (D1 · Dirección / Gerencia, prioridad Alta).
+**Necesidad del Bloque 3:** sistema de documentación compartida con acceso restringido a los datos (D2 · Administración y finanzas, prioridad Alta)).
 
-**Problema o riesgo:** fugas de información confidencial, descontrol documental e incumplimiento normativo; en D1 · Dirección / Gerencia, dependencia física de estar en las oficinas centrales.
+**Problema o riesgo:** fugas de información confidencial, descontrol documental e incumplimiento normativo.
 
 **Mejora propuesta:** un servidor de archivos con carpetas por departamento y permisos por grupo, además de una carpeta compartida con la asesoría y el auditor con acceso restringido.
 
-**Departamentos beneficiados:** D2 · Administración y finanzas, D1 · Dirección / Gerencia y D3 · Comercial.
+**Departamentos beneficiados:** D2 · Administración y finanzas y D3 · Comercial.
 
 ### 3. Mejorar la comunicación entre oficina y almacén
 
-**Necesidad del Bloque 3:** consulta instantánea de stock y pedidos y cobertura Wi-Fi en el almacén para lectores (D7 · Logística y almacén, Alta), y separación lógica del tráfico de red entre oficinas, almacén e invitados (Transversal, Media). Enlaza con la necesidad general de buena comunicación entre departamentos.
+**Necesidad del Bloque 3:** consulta instantánea de stock y pedidos y cobertura Wi-Fi en el almacén para lectores (D7 · Logística y almacén, prioridad Alta). Enlaza con la necesidad general de buena comunicación entre departamentos.
 
-**Problema o riesgo:** cuellos de botella en la preparación de pedidos (picking), envíos erróneos y paradas operativas; congestión de red que afecta al rendimiento del almacén y propagación de malware desde redes de invitados.
+**Problema o riesgo:** cuellos de botella en la preparación de pedidos (picking), envíos erróneos y paradas operativas.
 
 **Mejora propuesta:** una red interna que cubra oficinas y almacén, junto con un canal de comunicación interno y un sistema de incidencias compartido.
 
@@ -115,13 +115,13 @@ Cada oportunidad parte de una necesidad detectada en el Bloque 3 (apartado 7.3, 
 
 ### 5. Controlar mejor el acceso a los recursos
 
-**Necesidad del Bloque 3:** la misma necesidad transversal de control de accesos que en la oportunidad 1, vista desde los recursos: documentación con acceso restringido (D2 · Administración y finanzas, Alta) y datos de empleados y horarios (D2 · Administración y finanzas, Media).
+**Necesidad del Bloque 3:** separación lógica del tráfico de red entre oficinas, almacén e invitados (Transversal, prioridad Media), junto con el control de accesos de la necesidad transversal de la oportunidad 1.
 
-**Problema o riesgo:** accesos no autorizados a sistemas críticos, fugas de información confidencial y sanciones por incumplir la normativa de fichaje.
+**Problema o riesgo:** propagación de malware desde redes de invitados y congestión de red que afecta al rendimiento del almacén.
 
-**Mejora propuesta:** permisos por rol y departamento, contraseñas robustas, autenticación en dos pasos en las cuentas críticas y registro de accesos.
+**Mejora propuesta:** permisos por rol y departamento, separación de la red en zonas (oficinas, almacén e invitados), autenticación en dos pasos en las cuentas críticas y registro de accesos.
 
-**Departamentos beneficiados:** D2 · Administración y finanzas y D1 · Dirección / Gerencia.
+**Departamentos beneficiados:** toda la empresa, en especial D7 · Logística y almacén y D2 · Administración y finanzas.
 
 ### 6. Detectar incidencias de forma automática
 
@@ -145,12 +145,13 @@ Cada oportunidad parte de una necesidad detectada en el Bloque 3 (apartado 7.3, 
 
 ### Oportunidades adicionales: otras necesidades del Bloque 3
 
-Estas ocho necesidades de la tabla 6 no encajan en ninguna de las siete oportunidades anteriores, por lo que se recogen aquí con su propia mejora.
+Estas nueve necesidades de la tabla 6 no encajan en ninguna de las siete oportunidades anteriores, por lo que se recogen aquí con su propia mejora.
 
 **Tabla 8.** Oportunidades adicionales
 
 | Departamento | Necesidad del Bloque 3 | Problema o riesgo | Oportunidad de mejora | Prioridad |
 |---|---|---|---|---|
+| D1 · Dirección / Gerencia | Información clara para la toma de decisiones y capacidad de acceso remoto | Parálisis estratégica ante imprevistos y dependencia física de estar en las oficinas centrales | Ofrecer a la dirección información unificada y accesible desde cualquier lugar para decidir con rapidez | Alta |
 | D3 · Comercial | CRM accesible en movilidad para la red de ventas | Pérdida de oportunidades comerciales y falta de seguimiento de las grandes cuentas B2B | Centralizar el seguimiento de marcas y clientes B2B y poder consultarlo desde cualquier lugar | Alta |
 | D2 · Administración y finanzas (finanzas) | Cuadros de mando en tiempo real e integración bancaria/ERP automatizada | Riesgo de impagos, desajustes de tesorería y retrasos en los cierres mensuales | Automatizar la conciliación bancaria y ofrecer una visión financiera actualizada | Alta |
 | D7 · Logística y almacén (aprovisionamiento) | Previsión automatizada de aprovisionamiento conectada a las ventas | Roturas de stock en productos clave o exceso de inventario inmovilizado | Anticipar las compras a partir de los datos de venta reales | Alta |
