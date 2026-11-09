@@ -16,10 +16,11 @@ Situación de aprendizaje SA1 «De las necesidades de la empresa al proyecto» �
 | [03-necesidades.md](03-necesidades.md) | B3 · Necesidades detectadas | Hecho: tabla por departamento (D1-D9) y priorización de riesgos |
 | [04-oportunidades.md](04-oportunidades.md) | B4 · Oportunidades de mejora y justificación | Preguntas de mejora y oportunidades hechas; falta la justificación |
 | [img/](img/) | Organigrama de Grutinet | Hecho |
+| [05-proyecto.md](05-proyecto.md) | B5 · Definición inicial del proyecto | Hecho (sesión 3) |
+| [06-requisitos.md](06-requisitos.md) | B6 · Catálogo inicial de requisitos | Hecho (sesión 3) |
+| [07-trazabilidad.md](07-trazabilidad.md) | Matriz de trazabilidad necesidad → oportunidad → requisito | Hecho |
 | [pdf/](pdf/) | Versiones maquetadas en PDF de B2, B3 y la sesión 2 | Hecho |
-| [bitacora-grupo.md](bitacora-grupo.md) | Bitácora de grupo | S1 y S2 hechas |
-
-Los bloques que faltan (B5 y B6) se irán añadiendo a medida que se trabajen en clase.
+| [bitacora-grupo.md](bitacora-grupo.md) | Bitácora de grupo | S1, S2 y S3 hechas |
 
 ## Calendario
 
