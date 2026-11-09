@@ -67,12 +67,101 @@ Respondemos a las preguntas del enunciado pensando en cómo trabaja Grutinet (B1
 3. **Utilizar los datos para tomar mejores decisiones.** Analizar las ventas y las preferencias de los consumidores le permitiría identificar qué productos funcionan mejor, ajustar los precios y evitar gastos innecesarios.
 4. **Apostar por una logística más sostenible,** reduciendo embalajes y transportes innecesarios. Esto ayudaría a ahorrar costes y a disminuir su impacto ambiental.
 
-**Tabla 8.** Oportunidades de mejora y necesidades de las que parten
+## Lista de oportunidades de mejora
 
-| Cód. | Oportunidad | Necesidades | Beneficio esperado |
-|---|---|---|---|
-|  |  |  |  |
+Grutinet es una empresa de venta en marketplaces con una sede única que reúne oficinas y almacén. Trabaja con marcas y fabricantes (B2B), con origen mayorista y de dropshipping, y llega a preparar unos 440 pedidos diarios solo en Shein. Toda su actividad depende de plataformas digitales, por lo que casi cualquier mejora pasa por las TIC.
+
+Cada oportunidad parte de una necesidad detectada en el Bloque 3 (apartado 7.3, tabla 6), con su departamento y prioridad. El problema o riesgo también procede de esa tabla.
+
+### 1. Centralizar la gestión de usuarios
+
+**Necesidad del Bloque 3:** sistema de autenticación centralizada y control de accesos de usuarios (Transversal, toda la empresa; prioridad Alta).
+
+**Problema o riesgo:** accesos no autorizados a sistemas críticos y mala gestión de la seguridad en las altas y bajas de personal.
+
+**Mejora propuesta:** un directorio único de usuarios y grupos por departamento (D1–D9), con altas y bajas centralizadas.
+
+**Departamentos beneficiados:** Informática (gestión) y toda la plantilla.
+
+### 2. Compartir información de forma segura
+
+**Necesidad del Bloque 3:** sistema de documentación compartida con acceso restringido a los datos (Administración, prioridad Alta) y acceso claro y remoto a la información para decidir (Dirección, prioridad Alta).
+
+**Problema o riesgo:** fugas de información confidencial, descontrol documental e incumplimiento normativo; en Dirección, dependencia física de estar en las oficinas centrales.
+
+**Mejora propuesta:** un servidor de archivos con carpetas por departamento y permisos por grupo, además de una carpeta compartida con la asesoría y el auditor con acceso restringido.
+
+**Departamentos beneficiados:** Administración, Dirección, Financiero y Comercial.
+
+### 3. Mejorar la comunicación entre oficina y almacén
+
+**Necesidad del Bloque 3:** consulta instantánea de stock y pedidos y cobertura Wi-Fi en el almacén para lectores (Logística, Alta), y separación lógica del tráfico de red entre oficinas, almacén e invitados (Transversal, Media). Enlaza con la necesidad general de buena comunicación entre departamentos.
+
+**Problema o riesgo:** cuellos de botella en la preparación de pedidos (picking), envíos erróneos y paradas operativas; congestión de red que afecta al rendimiento del almacén y propagación de malware desde redes de invitados.
+
+**Mejora propuesta:** una red interna que cubra oficinas y almacén, junto con un canal de comunicación interno y un sistema de incidencias compartido.
+
+**Departamentos beneficiados:** Logística, Marketplaces, Atención al cliente y todo el personal del almacén.
+
+### 4. Reducir tareas manuales (stock, precios y fichas en cada canal)
+
+**Necesidad del Bloque 3:** trabajar a la vez sobre catálogos multimarca y multicanal sin duplicar ficheros (Marketplaces, Alta). Enlaza con la necesidad general de automatizar tareas para ahorrar tiempo y reducir errores.
+
+**Problema o riesgo:** desincronización de stock, errores en los precios publicados y sobrecarga de trabajo manual.
+
+**Mejora propuesta:** una base de datos de productos única y centralizada, con sincronización con los marketplaces y con el inventario del almacén, además de informes generados de forma automática para Análisis de datos.
+
+**Departamentos beneficiados:** Marketplaces, Logística, Marketing y Financiero.
+
+### 5. Controlar mejor el acceso a los recursos
+
+**Necesidad del Bloque 3:** la misma necesidad transversal de control de accesos que en la oportunidad 1, vista desde los recursos: documentación con acceso restringido (Administración, Alta) y datos de empleados y horarios (RR. HH., Media).
+
+**Problema o riesgo:** accesos no autorizados a sistemas críticos, fugas de información confidencial y sanciones por incumplir la normativa de fichaje.
+
+**Mejora propuesta:** permisos por rol y departamento, contraseñas robustas, autenticación en dos pasos en las cuentas críticas y registro de accesos.
+
+**Departamentos beneficiados:** Administración, RR. HH., Financiero y Dirección.
+
+### 6. Detectar incidencias de forma automática
+
+**Necesidad del Bloque 3:** monitorización para detectar fallos en la red y en los servidores a tiempo (Informática SAT/Sistemas, prioridad Alta).
+
+**Problema o riesgo:** caídas del sistema (ecommerce o ERP) que paralizan la facturación y la logística de la empresa.
+
+**Mejora propuesta:** monitorización de servidores, red y servicios, con alertas automáticas a Sistemas y copias de seguridad verificadas con regularidad.
+
+**Departamentos beneficiados:** Informática (detección) y toda la empresa, en especial Logística y Atención al cliente.
+
+### 7. Preparar la infraestructura para crecer
+
+**Necesidad del Bloque 3:** copias de seguridad automatizadas y protección frente a cortes eléctricos (Transversal, Alta), junto con la necesidad general de mejorar de forma continua la tecnología para gestionar más marcas, productos y pedidos.
+
+**Problema o riesgo:** pérdida irrecuperable de datos (por ransomware o fallos físicos) y daños en el hardware por apagones; al crecer el volumen de datos y pedidos, ese riesgo aumenta.
+
+**Mejora propuesta:** una red y unos servidores dimensionados con margen, con direccionamiento IP organizado por departamentos y servicios que se puedan ampliar con facilidad.
+
+**Departamentos beneficiados:** toda la empresa.
+
+### Oportunidades adicionales: otras necesidades del Bloque 3
+
+Estas ocho necesidades de la tabla 6 no encajan en ninguna de las siete oportunidades anteriores, por lo que se recogen aquí con su propia mejora.
+
+**Tabla 8.** Oportunidades adicionales
+
+| Departamento | Necesidad del Bloque 3 | Problema o riesgo | Oportunidad de mejora | Prioridad |
+|---|---|---|---|---|
+| Comercial | CRM accesible en movilidad para la red de ventas | Pérdida de oportunidades comerciales y falta de seguimiento de las grandes cuentas B2B | Centralizar el seguimiento de marcas y clientes B2B y poder consultarlo desde cualquier lugar | Alta |
+| Financiero | Cuadros de mando en tiempo real e integración bancaria/ERP automatizada | Riesgo de impagos, desajustes de tesorería y retrasos en los cierres mensuales | Automatizar la conciliación bancaria y ofrecer una visión financiera actualizada | Alta |
+| Compras | Previsión automatizada de aprovisionamiento conectada a las ventas | Roturas de stock en productos clave o exceso de inventario inmovilizado | Anticipar las compras a partir de los datos de venta reales | Alta |
+| Importación | Trazabilidad en tiempo real de contenedores y mercancía en tránsito | Falta de visibilidad en la cadena de suministro que impacta los tiempos de reposición | Seguir cada envío en tránsito para planificar la reposición | Alta |
+| Exportación | Plataforma para digitalización y seguimiento de documentación aduanera | Retrasos de entrega en el extranjero y posibles multas por errores documentales | Digitalizar y controlar la documentación aduanera | Media |
+| RR. HH. | Portal del empleado, registro centralizado de tareas y control de horarios | Sanciones por incumplimiento de normativa de fichaje y carga manual de procesos burocráticos | Centralizar el registro de horarios y tareas y reducir los trámites manuales | Media |
+| Marketing | Disponer de datos de ventas centralizados y fiables | Decisiones comerciales basadas en datos erróneos y campañas con bajo retorno (ROI) | Unificar los datos de ventas de todos los canales como única fuente de verdad | Media |
+| Atención al Cliente | Acceso rápido y directo al estado de los pedidos y gestión de incidencias | Tiempos de respuesta lentos, insatisfacción del cliente B2B y pérdida de reputación | Consultar el estado de cualquier pedido y registrar las incidencias en un único lugar | Alta |
 
 ## Justificación del proyecto
 
-_[Completar.]_
+Grutinet gestiona un volumen alto de pedidos y de información con una plantilla repartida en nueve departamentos que dependen unos de otros: lo que se decide o se vende en las oficinas se ejecuta en el almacén. Un Sistema Informático Empresarial permitiría centralizar usuarios y datos, proteger la información, reducir el trabajo manual repetitivo, detectar los fallos antes de que afecten a las ventas y dejar la infraestructura lista para crecer. Con ello, la empresa ganaría eficiencia, seguridad y capacidad de respuesta ante las marcas y los compradores.
+
+Versión maquetada en PDF: [B4 · Lista de oportunidades de mejora – Grutinet](pdf/B4%20%C2%B7%20Lista%20de%20oportunidades%20de%20mejora%20%E2%80%93%20Grutinet.pdf).
