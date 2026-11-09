@@ -81,57 +81,57 @@ Cada oportunidad parte de una necesidad detectada en el Bloque 3 (apartado 7.3, 
 
 **Mejora propuesta:** un directorio único de usuarios y grupos por departamento (D1–D9), con altas y bajas centralizadas.
 
-**Departamentos beneficiados:** Informática (gestión) y toda la plantilla.
+**Departamentos beneficiados:** D9 · Sistemas / Informática (gestión) y toda la plantilla.
 
 ### 2. Compartir información de forma segura
 
-**Necesidad del Bloque 3:** sistema de documentación compartida con acceso restringido a los datos (Administración, prioridad Alta) y acceso claro y remoto a la información para decidir (Dirección, prioridad Alta).
+**Necesidad del Bloque 3:** sistema de documentación compartida con acceso restringido a los datos (D2 · Administración y finanzas, prioridad Alta) y acceso claro y remoto a la información para decidir (D1 · Dirección / Gerencia, prioridad Alta).
 
-**Problema o riesgo:** fugas de información confidencial, descontrol documental e incumplimiento normativo; en Dirección, dependencia física de estar en las oficinas centrales.
+**Problema o riesgo:** fugas de información confidencial, descontrol documental e incumplimiento normativo; en D1 · Dirección / Gerencia, dependencia física de estar en las oficinas centrales.
 
 **Mejora propuesta:** un servidor de archivos con carpetas por departamento y permisos por grupo, además de una carpeta compartida con la asesoría y el auditor con acceso restringido.
 
-**Departamentos beneficiados:** Administración, Dirección, Financiero y Comercial.
+**Departamentos beneficiados:** D2 · Administración y finanzas, D1 · Dirección / Gerencia y D3 · Comercial.
 
 ### 3. Mejorar la comunicación entre oficina y almacén
 
-**Necesidad del Bloque 3:** consulta instantánea de stock y pedidos y cobertura Wi-Fi en el almacén para lectores (Logística, Alta), y separación lógica del tráfico de red entre oficinas, almacén e invitados (Transversal, Media). Enlaza con la necesidad general de buena comunicación entre departamentos.
+**Necesidad del Bloque 3:** consulta instantánea de stock y pedidos y cobertura Wi-Fi en el almacén para lectores (D7 · Logística y almacén, Alta), y separación lógica del tráfico de red entre oficinas, almacén e invitados (Transversal, Media). Enlaza con la necesidad general de buena comunicación entre departamentos.
 
 **Problema o riesgo:** cuellos de botella en la preparación de pedidos (picking), envíos erróneos y paradas operativas; congestión de red que afecta al rendimiento del almacén y propagación de malware desde redes de invitados.
 
 **Mejora propuesta:** una red interna que cubra oficinas y almacén, junto con un canal de comunicación interno y un sistema de incidencias compartido.
 
-**Departamentos beneficiados:** Logística, Marketplaces, Atención al cliente y todo el personal del almacén.
+**Departamentos beneficiados:** D7 · Logística y almacén, D4 · Gestión de marketplaces, D8 · Atención al cliente y todo el personal del almacén.
 
 ### 4. Reducir tareas manuales (stock, precios y fichas en cada canal)
 
-**Necesidad del Bloque 3:** trabajar a la vez sobre catálogos multimarca y multicanal sin duplicar ficheros (Marketplaces, Alta). Enlaza con la necesidad general de automatizar tareas para ahorrar tiempo y reducir errores.
+**Necesidad del Bloque 3:** trabajar a la vez sobre catálogos multimarca y multicanal sin duplicar ficheros (D4 · Gestión de marketplaces, Alta). Enlaza con la necesidad general de automatizar tareas para ahorrar tiempo y reducir errores.
 
 **Problema o riesgo:** desincronización de stock, errores en los precios publicados y sobrecarga de trabajo manual.
 
-**Mejora propuesta:** una base de datos de productos única y centralizada, con sincronización con los marketplaces y con el inventario del almacén, además de informes generados de forma automática para Análisis de datos.
+**Mejora propuesta:** una base de datos de productos única y centralizada, con sincronización con los marketplaces y con el inventario del almacén, además de informes generados de forma automática para D6 · Análisis de datos.
 
-**Departamentos beneficiados:** Marketplaces, Logística, Marketing y Financiero.
+**Departamentos beneficiados:** D4 · Gestión de marketplaces, D7 · Logística y almacén, D5 · Marketing y Paid Media y D2 · Administración y finanzas.
 
 ### 5. Controlar mejor el acceso a los recursos
 
-**Necesidad del Bloque 3:** la misma necesidad transversal de control de accesos que en la oportunidad 1, vista desde los recursos: documentación con acceso restringido (Administración, Alta) y datos de empleados y horarios (RR. HH., Media).
+**Necesidad del Bloque 3:** la misma necesidad transversal de control de accesos que en la oportunidad 1, vista desde los recursos: documentación con acceso restringido (D2 · Administración y finanzas, Alta) y datos de empleados y horarios (D2 · Administración y finanzas, Media).
 
 **Problema o riesgo:** accesos no autorizados a sistemas críticos, fugas de información confidencial y sanciones por incumplir la normativa de fichaje.
 
 **Mejora propuesta:** permisos por rol y departamento, contraseñas robustas, autenticación en dos pasos en las cuentas críticas y registro de accesos.
 
-**Departamentos beneficiados:** Administración, RR. HH., Financiero y Dirección.
+**Departamentos beneficiados:** D2 · Administración y finanzas y D1 · Dirección / Gerencia.
 
 ### 6. Detectar incidencias de forma automática
 
-**Necesidad del Bloque 3:** monitorización para detectar fallos en la red y en los servidores a tiempo (Informática SAT/Sistemas, prioridad Alta).
+**Necesidad del Bloque 3:** monitorización para detectar fallos en la red y en los servidores a tiempo (D9 · Sistemas / Informática, prioridad Alta).
 
 **Problema o riesgo:** caídas del sistema (ecommerce o ERP) que paralizan la facturación y la logística de la empresa.
 
 **Mejora propuesta:** monitorización de servidores, red y servicios, con alertas automáticas a Sistemas y copias de seguridad verificadas con regularidad.
 
-**Departamentos beneficiados:** Informática (detección) y toda la empresa, en especial Logística y Atención al cliente.
+**Departamentos beneficiados:** D9 · Sistemas / Informática (detección) y toda la empresa, en especial D7 · Logística y almacén y D8 · Atención al cliente.
 
 ### 7. Preparar la infraestructura para crecer
 
@@ -151,17 +151,17 @@ Estas ocho necesidades de la tabla 6 no encajan en ninguna de las siete oportuni
 
 | Departamento | Necesidad del Bloque 3 | Problema o riesgo | Oportunidad de mejora | Prioridad |
 |---|---|---|---|---|
-| Comercial | CRM accesible en movilidad para la red de ventas | Pérdida de oportunidades comerciales y falta de seguimiento de las grandes cuentas B2B | Centralizar el seguimiento de marcas y clientes B2B y poder consultarlo desde cualquier lugar | Alta |
-| Financiero | Cuadros de mando en tiempo real e integración bancaria/ERP automatizada | Riesgo de impagos, desajustes de tesorería y retrasos en los cierres mensuales | Automatizar la conciliación bancaria y ofrecer una visión financiera actualizada | Alta |
-| Compras | Previsión automatizada de aprovisionamiento conectada a las ventas | Roturas de stock en productos clave o exceso de inventario inmovilizado | Anticipar las compras a partir de los datos de venta reales | Alta |
-| Importación | Trazabilidad en tiempo real de contenedores y mercancía en tránsito | Falta de visibilidad en la cadena de suministro que impacta los tiempos de reposición | Seguir cada envío en tránsito para planificar la reposición | Alta |
-| Exportación | Plataforma para digitalización y seguimiento de documentación aduanera | Retrasos de entrega en el extranjero y posibles multas por errores documentales | Digitalizar y controlar la documentación aduanera | Media |
-| RR. HH. | Portal del empleado, registro centralizado de tareas y control de horarios | Sanciones por incumplimiento de normativa de fichaje y carga manual de procesos burocráticos | Centralizar el registro de horarios y tareas y reducir los trámites manuales | Media |
-| Marketing | Disponer de datos de ventas centralizados y fiables | Decisiones comerciales basadas en datos erróneos y campañas con bajo retorno (ROI) | Unificar los datos de ventas de todos los canales como única fuente de verdad | Media |
-| Atención al Cliente | Acceso rápido y directo al estado de los pedidos y gestión de incidencias | Tiempos de respuesta lentos, insatisfacción del cliente B2B y pérdida de reputación | Consultar el estado de cualquier pedido y registrar las incidencias en un único lugar | Alta |
+| D3 · Comercial | CRM accesible en movilidad para la red de ventas | Pérdida de oportunidades comerciales y falta de seguimiento de las grandes cuentas B2B | Centralizar el seguimiento de marcas y clientes B2B y poder consultarlo desde cualquier lugar | Alta |
+| D2 · Administración y finanzas (finanzas) | Cuadros de mando en tiempo real e integración bancaria/ERP automatizada | Riesgo de impagos, desajustes de tesorería y retrasos en los cierres mensuales | Automatizar la conciliación bancaria y ofrecer una visión financiera actualizada | Alta |
+| D7 · Logística y almacén (aprovisionamiento) | Previsión automatizada de aprovisionamiento conectada a las ventas | Roturas de stock en productos clave o exceso de inventario inmovilizado | Anticipar las compras a partir de los datos de venta reales | Alta |
+| D7 · Logística y almacén (mercancía en tránsito) | Trazabilidad en tiempo real de contenedores y mercancía en tránsito | Falta de visibilidad en la cadena de suministro que impacta los tiempos de reposición | Seguir cada envío en tránsito para planificar la reposición | Alta |
+| D7 · Logística y almacén (envíos al extranjero) | Plataforma para digitalización y seguimiento de documentación aduanera | Retrasos de entrega en el extranjero y posibles multas por errores documentales | Digitalizar y controlar la documentación aduanera | Media |
+| D2 · Administración y finanzas (personal) | Portal del empleado, registro centralizado de tareas y control de horarios | Sanciones por incumplimiento de normativa de fichaje y carga manual de procesos burocráticos | Centralizar el registro de horarios y tareas y reducir los trámites manuales | Media |
+| D5 · Marketing y Paid Media / D6 · Análisis de datos | Disponer de datos de ventas centralizados y fiables | Decisiones comerciales basadas en datos erróneos y campañas con bajo retorno (ROI) | Unificar los datos de ventas de todos los canales como única fuente de verdad | Media |
+| D8 · Atención al cliente | Acceso rápido y directo al estado de los pedidos y gestión de incidencias | Tiempos de respuesta lentos, insatisfacción del cliente B2B y pérdida de reputación | Consultar el estado de cualquier pedido y registrar las incidencias en un único lugar | Alta |
 
 ## Justificación del proyecto
 
 Grutinet gestiona un volumen alto de pedidos y de información con una plantilla repartida en nueve departamentos que dependen unos de otros: lo que se decide o se vende en las oficinas se ejecuta en el almacén. Un Sistema Informático Empresarial permitiría centralizar usuarios y datos, proteger la información, reducir el trabajo manual repetitivo, detectar los fallos antes de que afecten a las ventas y dejar la infraestructura lista para crecer. Con ello, la empresa ganaría eficiencia, seguridad y capacidad de respuesta ante las marcas y los compradores.
 
-Versión maquetada en PDF: [B4 · Lista de oportunidades de mejora – Grutinet](pdf/B4%20%C2%B7%20Lista%20de%20oportunidades%20de%20mejora%20%E2%80%93%20Grutinet.pdf).
+Versión maquetada en PDF (con los nombres de departamento del primer borrador): [B4 · Lista de oportunidades de mejora – Grutinet](pdf/B4%20%C2%B7%20Lista%20de%20oportunidades%20de%20mejora%20%E2%80%93%20Grutinet.pdf).
