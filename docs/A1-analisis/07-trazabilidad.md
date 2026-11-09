@@ -8,10 +8,10 @@ En la columna de oportunidad, **P1-P6** son las preguntas de mejora de B4 y **O1
 
 | Necesidad (B3) | Prioridad | Oportunidad (B4) | Elemento del proyecto (B5) | Requisitos (B6) |
 |---|---|---|---|---|
-| N-01 · Información para decidir y acceso remoto (D1) | Alta | P4 (acceso seguro desde fuera), O3 (usar los datos para decidir) | Aplicación web, acceso remoto seguro | RF-08, RF-12 |
+| N-01 · Información para decidir y acceso remoto (D1) | Alta | P4 (acceso seguro desde fuera), O3 (usar los datos para decidir) | Aplicación web | RF-08, RF-12 |
 | N-02 · Cuadros de mando de tesorería (D2) | Alta | P3 (información centralizada), O3 | Aplicación web, base de datos | RF-08 |
 | N-03 · Portal del empleado y control de horarios (D2) | Media | P4 (registro de jornada) | Aplicación web | RF-13, RNF-10 |
-| N-04 · Seguimiento comercial en movilidad (D3) | Alta | P4 (acceso seguro desde fuera), O2 (nuevos clientes y marketplaces) | Aplicación web, acceso remoto seguro | RF-11, RF-12, RNF-07 |
+| N-04 · Seguimiento comercial en movilidad (D3) | Alta | P4 (acceso seguro desde fuera), O2 (nuevos clientes y marketplaces) | Aplicación web | RF-11, RF-12, RNF-07 |
 | N-05 · Datos de ventas centralizados y fiables (D5, D6) | Media | P1 (informes para las marcas), P3, O3 | Aplicación web, base de datos | RF-07, RF-08 |
 | N-06 · Previsión de aprovisionamiento (D7) | Alta | P2 (vender lo que no hay), O3 | Aplicación web, base de datos | RF-09 |
 | N-07 · Documentación de envíos al extranjero (D7) | Media | O1 (nuevos mercados internacionales) | Aplicación web | RF-10 |
@@ -37,14 +37,13 @@ En la columna de oportunidad, **P1-P6** son las preguntas de mejora de B4 y **O1
 | Red Wi-Fi | RF-16, RNF-02 |
 | VLAN | RNF-01 |
 | Almacenamiento | RF-03, RF-15 |
-| Aplicación web | RF-05, RF-06, RF-08, RF-09, RF-10, RF-11, RF-13 |
+| Aplicación web | RF-05, RF-06, RF-08, RF-09, RF-10, RF-11, RF-12, RF-13 |
 | Base de datos | RF-07 |
 | Monitorización | RF-14, RNF-08 |
 | CPD | RNF-03, RNF-04 |
-| Acceso remoto seguro | RF-12 |
 
 ## Comprobaciones
 
 - [x] **Ninguna necesidad de prioridad alta se queda sin requisito.** Las 12 necesidades altas tienen al menos un requisito.
 - [x] **Ningún requisito aparece sin necesidad que lo justifique.** Los 16 RF y los 10 RNF citan al menos una necesidad de B3.
-- [x] **Los elementos del proyecto (B5) aparecen en los requisitos.** Los 11 elementos tienen al menos un requisito (tabla 14).
+- [x] **Los elementos del proyecto (B5) aparecen en los requisitos.** Los 10 elementos tienen al menos un requisito (tabla 14).
