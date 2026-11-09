@@ -15,24 +15,24 @@ Los departamentos siguen el organigrama de B2 (D1-D9). En el primer borrador la 
 
 **Tabla 6.** Necesidades detectadas por departamento
 
-| Departamento | Necesidad detectada | Problema o riesgo asociado | Prioridad |
-|---|---|---|---|
-| D1 · Dirección / Gerencia | Información clara para la toma de decisiones y capacidad de acceso remoto | Parálisis estratégica ante imprevistos y dependencia física de estar en las oficinas centrales. | Alta |
-| D2 · Administración y finanzas (finanzas) | Cuadros de mando en tiempo real e integración bancaria/ERP automatizada | Riesgo de impagos, desajustes de tesorería y retrasos en los cierres mensuales. | Alta |
-| D2 · Administración y finanzas (personal) | Portal del empleado, registro centralizado de tareas y control de horarios | Sanciones por incumplimiento de normativa de fichaje y carga manual de procesos burocráticos. | Media |
-| D3 · Comercial | Implantación de un CRM accesible en movilidad para la red de ventas | Pérdida de oportunidades comerciales y falta de seguimiento de las grandes cuentas B2B. | Alta |
-| D5 · Marketing y Paid Media / D6 · Análisis de datos | Disponer de datos de ventas que sean centralizados y fiables | Toma de decisiones comerciales basada en datos erróneos y campañas con bajo retorno (ROI). | Media |
-| D7 · Logística y almacén (aprovisionamiento) | Previsión automatizada de aprovisionamiento conectada a las ventas | Roturas de stock en productos clave o exceso de inventario inmovilizando capital. | Alta |
-| D7 · Logística y almacén (envíos al extranjero) | Plataforma para digitalización y seguimiento de documentación aduanera | Retrasos de entrega en el extranjero y posibles multas por errores documentales. | Media |
-| D7 · Logística y almacén (mercancía en tránsito) | Trazabilidad en tiempo real de contenedores y mercancía en tránsito | Falta de visibilidad en la cadena de suministro que impacte los tiempos de reposición. | Alta |
-| D9 · Sistemas / Informática | Monitorización para detectar fallos en la red y los servidores a tiempo | Caídas del sistema (plataformas de venta o programas de gestión) que paralicen la facturación y la logística de la empresa. | Alta |
-| D4 · Gestión de marketplaces | Trabajar simultáneamente sobre catálogos multimarca y multicanal sin duplicar ficheros | Desincronización de stock, errores en precios publicados y sobrecarga de trabajo manual. | Alta |
-| D7 · Logística y almacén | Consulta instantánea de stock/pedidos y cobertura Wi-Fi en almacén para lectores | Cuellos de botella en la preparación de pedidos (picking), envíos erróneos y paradas operativas. | Alta |
-| D8 · Atención al cliente | Acceso rápido y directo al estado de los pedidos y gestión de incidencias | Tiempos de respuesta lentos, insatisfacción del cliente B2B y pérdida de reputación. | Alta |
-| D2 · Administración y finanzas (documentación) | Sistema de documentación compartida con acceso restringido a los datos | Fugas de información confidencial, descontrol documental e incumplimiento normativo. | Alta |
-| Transversal (Toda la empresa) | Sistema de autenticación centralizada y control de accesos de usuarios | Accesos no autorizados a sistemas críticos y mala gestión de seguridad en las altas/bajas de personal. | Alta |
-| Transversal (Toda la empresa) | Separación lógica del tráfico de red (oficinas, almacén, invitados) | Propagación de malware desde redes de invitados y congestión que afecte al rendimiento del almacén. | Media |
-| Transversal (Toda la empresa) | Copias de seguridad automatizadas y protección frente a cortes eléctricos | Pérdida de datos irrecuperable (por ransomware o fallos físicos) y daños en el hardware por apagones. | Alta |
+| Cód. | Departamento | Necesidad detectada | Problema o riesgo asociado | Prioridad |
+|---|---|---|---|---|
+| N-01 | D1 · Dirección / Gerencia | Información clara para la toma de decisiones y capacidad de acceso remoto | Parálisis estratégica ante imprevistos y dependencia física de estar en las oficinas centrales. | Alta |
+| N-02 | D2 · Administración y finanzas (finanzas) | Cuadros de mando en tiempo real e integración bancaria/ERP automatizada | Riesgo de impagos, desajustes de tesorería y retrasos en los cierres mensuales. | Alta |
+| N-03 | D2 · Administración y finanzas (personal) | Portal del empleado, registro centralizado de tareas y control de horarios | Sanciones por incumplimiento de normativa de fichaje y carga manual de procesos burocráticos. | Media |
+| N-04 | D3 · Comercial | Implantación de un CRM accesible en movilidad para la red de ventas | Pérdida de oportunidades comerciales y falta de seguimiento de las grandes cuentas B2B. | Alta |
+| N-05 | D5 · Marketing y Paid Media / D6 · Análisis de datos | Disponer de datos de ventas que sean centralizados y fiables | Toma de decisiones comerciales basada en datos erróneos y campañas con bajo retorno (ROI). | Media |
+| N-06 | D7 · Logística y almacén (aprovisionamiento) | Previsión automatizada de aprovisionamiento conectada a las ventas | Roturas de stock en productos clave o exceso de inventario inmovilizando capital. | Alta |
+| N-07 | D7 · Logística y almacén (envíos al extranjero) | Plataforma para digitalización y seguimiento de documentación aduanera | Retrasos de entrega en el extranjero y posibles multas por errores documentales. | Media |
+| N-08 | D7 · Logística y almacén (mercancía en tránsito) | Trazabilidad en tiempo real de contenedores y mercancía en tránsito | Falta de visibilidad en la cadena de suministro que impacte los tiempos de reposición. | Alta |
+| N-09 | D9 · Sistemas / Informática | Monitorización para detectar fallos en la red y los servidores a tiempo | Caídas del sistema (plataformas de venta o programas de gestión) que paralicen la facturación y la logística de la empresa. | Alta |
+| N-10 | D4 · Gestión de marketplaces | Trabajar simultáneamente sobre catálogos multimarca y multicanal sin duplicar ficheros | Desincronización de stock, errores en precios publicados y sobrecarga de trabajo manual. | Alta |
+| N-11 | D7 · Logística y almacén | Consulta instantánea de stock/pedidos y cobertura Wi-Fi en almacén para lectores | Cuellos de botella en la preparación de pedidos (picking), envíos erróneos y paradas operativas. | Alta |
+| N-12 | D8 · Atención al cliente | Acceso rápido y directo al estado de los pedidos y gestión de incidencias | Tiempos de respuesta lentos, insatisfacción del cliente B2B y pérdida de reputación. | Alta |
+| N-13 | D2 · Administración y finanzas (documentación) | Sistema de documentación compartida con acceso restringido a los datos | Fugas de información confidencial, descontrol documental e incumplimiento normativo. | Alta |
+| N-14 | Transversal (Toda la empresa) | Sistema de autenticación centralizada y control de accesos de usuarios | Accesos no autorizados a sistemas críticos y mala gestión de seguridad en las altas/bajas de personal. | Alta |
+| N-15 | Transversal (Toda la empresa) | Separación lógica del tráfico de red (oficinas, almacén, invitados) | Propagación de malware desde redes de invitados y congestión que afecte al rendimiento del almacén. | Media |
+| N-16 | Transversal (Toda la empresa) | Copias de seguridad automatizadas y protección frente a cortes eléctricos | Pérdida de datos irrecuperable (por ransomware o fallos físicos) y daños en el hardware por apagones. | Alta |
 
 ## Priorización de las necesidades y justificación de los riesgos
 
