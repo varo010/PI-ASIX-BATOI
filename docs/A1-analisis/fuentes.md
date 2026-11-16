@@ -1,6 +1,6 @@
-# Fuentes de información (B1)
+# Anexo B. Fuentes de información
 
-Registro de las fuentes consultadas para caracterizar Grutinet. Cada dato del bloque 1 indica de qué fuente sale. Lo que ninguna fuente confirma se marca como **supuesto** (ver la tabla del final y [01-empresa.md](01-empresa.md)).
+Registro de las fuentes consultadas para caracterizar Grutinet. Cada dato de Grutinet del dossier indica de qué fuente sale (F1 a F7). La fuente F8 es la norma que cita el requisito RNF-10. Lo que ninguna fuente confirma se marca como **supuesto** (ver la tabla del final y [01-empresa.md](01-empresa.md)).
 
 ## Tabla de fuentes
 
@@ -13,6 +13,7 @@ Registro de las fuentes consultadas para caracterizar Grutinet. Cada dato del bl
 | F5 | einforma · Grutinet SL | https://www.einforma.com/informacion-empresa/grutinet | Contraste de CIF, forma jurídica y tramo de tamaño | 26/10/2026 |
 | F6 | elEconomista Empresite · Grutinet SL | https://empresite.eleconomista.es/GRUTINET.html | Contraste del n.º de empleados y la actividad | 26/10/2026 |
 | F7 | LinkedIn · Grutinet S.L. | https://www.linkedin.com/company/grutinet-s.l. | Tramo de tamaño (11-50 empleados), año de inicio de actividad | 26/10/2026 |
+| F8 | BOE · Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015), artículo 34.9 | https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430 | Registro diario de jornada: hora de inicio y de fin de cada jornada, conservación durante cuatro años y a disposición de los trabajadores, de sus representantes y de la Inspección de Trabajo | 16/11/2026 |
 
 ## Datos que dan las fuentes
 
@@ -39,3 +40,4 @@ Ninguna fuente pública los confirma. Los usamos como hipótesis de trabajo y lo
 - Informática a cargo de una persona más soporte externo.
 - Uso de lectores o terminales móviles en el almacén.
 - Relación con servicios externos (asesoría y soporte informático).
+- En B4, lo que se dice del mercado en las oportunidades de negocio ON-1 y ON-2 (cada frase está marcada como supuesto en su ficha).

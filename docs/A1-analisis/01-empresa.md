@@ -11,7 +11,7 @@
 
 La empresa se constituyó en 2001 y lleva más de dos décadas en el sector. Empezó como distribuidora y mayorista online, con servicio de **dropshipping** (envía directamente al cliente los pedidos que venden otras tiendas). Desde ahí ha evolucionado hacia una agencia de servicios para marcas. Esa trayectoria explica que tenga logística propia, algo poco habitual en una agencia de comercio digital, y que su CNAE registrado siga siendo el de comercio al por menor.
 
-**Tabla 3.** Ficha de caracterización de Grutinet
+**Tabla 1.** Ficha de caracterización de Grutinet
 
 | Dato | Valor | Fuente |
 |---|---|---|
@@ -57,7 +57,7 @@ Grutinet conecta a los fabricantes y las marcas con el consumidor final, y usa l
 
 La web de Grutinet no explica su organización interna. Lo que no hemos podido confirmar con una fuente ([fuentes.md](fuentes.md)) lo marcamos como **supuesto** y lo razonamos:
 
-**Tabla 4.** Supuestos de trabajo y su justificación
+**Tabla 2.** Supuestos de trabajo y su justificación
 
 | Dato | Estado | Justificación |
 |---|---|---|
