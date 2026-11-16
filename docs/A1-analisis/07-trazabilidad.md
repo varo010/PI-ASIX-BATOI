@@ -18,8 +18,8 @@ En la columna de oportunidad, **P1-P6** son las preguntas de mejora de B4 y **O1
 | N-08 · Seguimiento de la mercancía en tránsito (D7) | Alta | P3 (stock centralizado), O1 | Aplicación web | RF-10 |
 | N-09 · Detectar fallos de red y servidores (D9) | Alta | P2 (fallos que nadie ve), P5 (supervisión continua) | Monitorización, CPD | RF-14, RNF-05, RNF-08, RNF-09 |
 | N-10 · Catálogos multimarca y multicanal (D4) | Alta | P1 (actualizar los canales de venta), P3 (catálogo) | Aplicación web, base de datos | RF-04, RF-07, RNF-11 |
-| N-11 · Stock y pedidos en el almacén (D7) | Alta | P1 (preparar los pedidos), P2 (vender lo que no hay) | Equipos cliente, red LAN, red Wi-Fi, aplicación web, base de datos | RF-05, RF-07, RNF-02, RNF-05, RNF-07, RNF-11 |
-| N-12 · Estado de pedidos e incidencias (D8) | Alta | P2 (responder tarde), P4 (herramienta interna) | Equipos cliente, aplicación web | RF-05, RF-06, RNF-07 |
+| N-11 · Stock y pedidos en el almacén (D7) | Alta | P1 (preparar los pedidos), P2 (vender lo que no hay) | Equipos cliente, red LAN, red Wi-Fi, aplicación web, base de datos | RF-05, RF-07, RF-17, RNF-02, RNF-05, RNF-07, RNF-11 |
+| N-12 · Estado de pedidos e incidencias (D8) | Alta | P2 (responder tarde), P4 (herramienta interna) | Equipos cliente, aplicación web | RF-05, RF-06, RF-17, RNF-07 |
 | N-13 · Documentación con acceso restringido (D2) | Alta | P3 (documentación administrativa), P5 (control de accesos) | Servidores, almacenamiento | RF-02, RF-03, RNF-06 |
 | N-14 · Autenticación centralizada y control de accesos (toda la empresa) | Alta | P4 (cuenta personal), P5 (control de accesos) | Servidores | RF-01, RF-02, RNF-06 |
 | N-15 · Separación del tráfico de red (toda la empresa) | Media | P5 (separar el tráfico) | Red LAN, red Wi-Fi, VLAN | RF-16, RNF-01 |
@@ -33,7 +33,7 @@ En la columna de oportunidad, **P1-P6** son las preguntas de mejora de B4 y **O1
 |---|---|
 | Servidores | RF-01, RF-03, RNF-04, RNF-11 |
 | Equipos cliente | RF-05, RNF-07 |
-| Red LAN | RNF-01, RNF-11 |
+| Red LAN | RF-17, RNF-01, RNF-11 |
 | Red Wi-Fi | RF-16, RNF-02 |
 | VLAN | RNF-01 |
 | Almacenamiento | RF-03, RF-15 |
@@ -45,5 +45,5 @@ En la columna de oportunidad, **P1-P6** son las preguntas de mejora de B4 y **O1
 ## Comprobaciones
 
 - [x] **Ninguna necesidad de prioridad alta se queda sin requisito.** Las 12 necesidades altas tienen al menos un requisito.
-- [x] **Ningún requisito aparece sin necesidad que lo justifique.** Los 16 RF y los 11 RNF citan al menos una necesidad de B3.
+- [x] **Ningún requisito aparece sin necesidad que lo justifique.** Los 17 RF y los 11 RNF citan al menos una necesidad de B3.
 - [x] **Los elementos del proyecto (B5) aparecen en los requisitos.** Los 10 elementos tienen al menos un requisito (tabla 14).

@@ -12,12 +12,12 @@ Indican qué deberá hacer el sistema.
 |---|---|---|---|
 | RF-01 | El sistema deberá permitir la autenticación centralizada de los usuarios, con una cuenta personal para cada trabajador. | N-14 · Autenticación centralizada y control de accesos | Alta |
 | RF-02 | El sistema deberá permitir asignar permisos por departamento y por puesto, y retirar todos los accesos de una persona cuando deja la empresa. | N-14 · Control de accesos; N-13 · Documentación con acceso restringido | Alta |
-| RF-03 | El sistema deberá permitir compartir documentación en carpetas por departamento, con acceso solo para quien la necesita. | N-13 · Documentación compartida con acceso restringido | Alta |
+| RF-03 | El sistema deberá permitir compartir documentación en carpetas por departamento y entre los departamentos que trabajan juntos, con acceso solo para quien la necesita, incluida una carpeta restringida para la asesoría y el auditor. | N-13 · Documentación compartida con acceso restringido | Alta |
 | RF-04 | El sistema deberá permitir gestionar un único catálogo multimarca (fichas, precios y stock) del que salgan los datos de todos los marketplaces, sin duplicar ficheros. | N-10 · Catálogos multimarca y multicanal | Alta |
 | RF-05 | El sistema deberá disponer de una aplicación web interna para consultar y actualizar el stock y el estado de los pedidos desde las oficinas y desde el almacén. | N-11 · Consulta de stock y pedidos en el almacén; N-12 · Estado de los pedidos | Alta |
-| RF-06 | La aplicación deberá permitir registrar las incidencias y devoluciones de los pedidos y seguir su estado hasta cerrarlas. | N-12 · Gestión de incidencias | Alta |
+| RF-06 | El sistema deberá permitir registrar las incidencias y devoluciones de los pedidos y seguir su estado hasta cerrarlas. | N-12 · Gestión de incidencias | Alta |
 | RF-07 | El sistema deberá almacenar en una base de datos centralizada el catálogo, el stock, los pedidos y las ventas de todos los canales. | N-05 · Datos de ventas centralizados; N-10; N-11 | Alta |
-| RF-08 | El sistema deberá generar informes y cuadros de mando de ventas y tesorería para Dirección y Administración y finanzas. | N-01 · Información para decidir; N-02 · Cuadros de mando; N-05 | Alta |
+| RF-08 | El sistema deberá generar informes y cuadros de mando de ventas y tesorería para Dirección y Administración y finanzas, a partir de los datos bancarios y contables, que se incorporarán de forma automática. | N-01 · Información para decidir; N-02 · Cuadros de mando; N-05 | Alta |
 | RF-09 | El sistema deberá calcular previsiones de aprovisionamiento a partir de las ventas y del stock. | N-06 · Previsión de aprovisionamiento | Alta |
 | RF-10 | El sistema deberá permitir seguir la mercancía en tránsito y guardar la documentación de los envíos al extranjero. | N-08 · Mercancía en tránsito; N-07 · Documentación aduanera | Alta |
 | RF-11 | El sistema deberá permitir registrar las marcas cliente y el seguimiento comercial de cada una, también desde fuera de la oficina. | N-04 · Seguimiento comercial en movilidad | Alta |
@@ -26,6 +26,7 @@ Indican qué deberá hacer el sistema.
 | RF-14 | El sistema deberá permitir supervisar el estado de servidores y dispositivos de red y avisar automáticamente cuando algo falle. | N-09 · Monitorización de red y servidores | Alta |
 | RF-15 | El sistema deberá hacer copias de seguridad automáticas de los datos y permitir restaurarlos. | N-16 · Copias de seguridad | Alta |
 | RF-16 | El sistema deberá ofrecer acceso a Internet a los visitantes sin darles acceso a ningún recurso interno. | N-15 · Separación del tráfico de invitados | Media |
+| RF-17 | El sistema deberá permitir la comunicación interna entre todos los departamentos, y en especial entre las oficinas y el almacén, mediante un canal de comunicación interno accesible con la cuenta de cada trabajador. | N-11 · Stock y pedidos en el almacén; N-12 · Estado de pedidos e incidencias (B3, necesidad general 3; B4, oportunidad 3) | Alta |
 
 ## 6.2. Requisitos no funcionales
 
