@@ -2,7 +2,7 @@
 
 La matriz une cada necesidad (B3) con la oportunidad de mejora de la que parte (B4), el elemento del proyecto que la resuelve (B5) y los requisitos que la cubren (B6). Así se ve la relación empresa → necesidades → proyecto → requisitos.
 
-En la columna de oportunidad, **P1-P6** son las preguntas de mejora de B4 y **O1-O4** son las oportunidades de mejora de B4.
+En la columna de oportunidad, **P1-P6** son las preguntas de mejora de B4 y **O1-O4** son las oportunidades de negocio de B4.
 
 **Tabla 15.** Matriz de trazabilidad
 

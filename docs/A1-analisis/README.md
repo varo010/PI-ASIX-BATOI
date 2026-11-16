@@ -2,7 +2,18 @@
 
 Situación de aprendizaje SA1 «De las necesidades de la empresa al proyecto» · RA1, criterios a–f.
 
-**Producto:** dossier de análisis, necesidades y requisitos de **Grutinet S.L.** (Ontinyent).
+**Producto:** dossier de análisis, necesidades y requisitos de **Grutinet S.L.** (Ontinyent). El documento final está en [entregas/A1_Dossier_Grutinet_Grupo3.pdf](../../entregas/A1_Dossier_Grutinet_Grupo3.pdf).
+
+## Partes del dossier y criterios de evaluación
+
+| Parte del dossier | CE principal | Archivo |
+|---|---|---|
+| Caracterización de la empresa y breve clasificación de las empresas de su sector | RA1.a | [01-empresa.md](01-empresa.md) |
+| Organización, departamentos, perfiles y funciones | RA1.b | [02-organizacion.md](02-organizacion.md) |
+| Tabla de necesidades y priorización | RA1.c | [03-necesidades.md](03-necesidades.md) |
+| Oportunidades de negocio previsibles en el sector | RA1.d | [04-oportunidades.md](04-oportunidades.md) |
+| Definición, finalidad y alcance inicial del proyecto | RA1.e | [05-proyecto.md](05-proyecto.md) |
+| Características del proyecto y catálogo de requisitos funcionales/no funcionales | RA1.f | [05-proyecto.md](05-proyecto.md) y [06-requisitos.md](06-requisitos.md) |
 
 **Reto:** ¿qué necesita realmente nuestra empresa y qué sistema informático debemos diseñar para responder a esas necesidades?
 
@@ -17,10 +28,11 @@ Situación de aprendizaje SA1 «De las necesidades de la empresa al proyecto» �
 | [04-oportunidades.md](04-oportunidades.md) | B4 · Oportunidades de mejora y justificación | Hecho: preguntas de mejora, lista de oportunidades y justificación del Sistema Informático Empresarial |
 | [img/](img/) | Organigrama de Grutinet | Hecho |
 | [05-proyecto.md](05-proyecto.md) | B5 · Definición inicial del proyecto | Hecho (sesión 3) |
-| [06-requisitos.md](06-requisitos.md) | B6 · Catálogo inicial de requisitos | Hecho (sesión 3) |
+| [06-requisitos.md](06-requisitos.md) | B6 · Catálogo inicial de requisitos | Hecho: 17 RF y 11 RNF, tabla de requisitos y control de calidad (sesiones 3 y 4) |
 | [07-trazabilidad.md](07-trazabilidad.md) | Matriz de trazabilidad necesidad → oportunidad → requisito | Hecho |
 | [pdf/](pdf/) | Versiones maquetadas en PDF de B2, B3, B4 y la sesión 2 | Hecho |
-| [bitacora-grupo.md](bitacora-grupo.md) | Bitácora de grupo | S1, S2 y S3 hechas |
+| [bitacora-grupo.md](bitacora-grupo.md) | Bitácora de grupo | S1 a S4 hechas |
+| [Dossier en PDF](../../entregas/A1_Dossier_Grutinet_Grupo3.pdf) | Producto final de la actividad | Hecho (sesión 4) |
 
 ## Pregunta final del reto
 
