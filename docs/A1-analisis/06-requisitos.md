@@ -35,13 +35,14 @@ Indican cómo debe comportarse el sistema o qué características generales debe
 
 | Código | Requisito | Necesidad que cubre | Prioridad |
 |---|---|---|---|
-| RNF-01 | La red deberá estar segmentada para separar oficinas, almacén, servidores e invitados. | N-15 · Separación lógica del tráfico | Media |
+| RNF-01 | La red deberá estar segmentada para separar oficinas, almacén, servidores e invitados, de forma que un fallo o una infección en una zona no se extienda al resto. | N-15 · Separación lógica del tráfico | Media |
 | RNF-02 | Toda la zona de trabajo del almacén deberá tener cobertura inalámbrica para los lectores. | N-11 · Cobertura en el almacén | Alta |
 | RNF-03 | Los equipos críticos deberán seguir funcionando ante un corte eléctrico breve y apagarse de forma ordenada si el corte se alarga. | N-16 · Protección frente a cortes eléctricos | Alta |
 | RNF-04 | Los servicios críticos deberán disponer de medidas frente a fallos: la avería de un solo equipo o disco no deberá provocar pérdida de datos, y habrá una copia fuera de la sede. | N-16 · Pérdida de datos | Alta |
 | RNF-05 | Los servicios de stock y pedidos deberán estar disponibles durante todo el horario del almacén. | N-09 · Caídas que paralizan la logística; N-11 | Alta |
 | RNF-06 | La información económica, la de las marcas y los datos personales solo deberán ser accesibles a los perfiles autorizados, cumpliendo el RGPD. | N-13 · Fugas de información; N-14 | Alta |
 | RNF-07 | La aplicación interna deberá poder usarse desde los puestos de oficina, los lectores del almacén y los dispositivos móviles del equipo comercial. | N-04; N-11; N-12 | Alta |
-| RNF-08 | El sistema deberá facilitar la monitorización y el mantenimiento desde un punto central. | N-09 · Detectar fallos a tiempo | Alta |
-| RNF-09 | La infraestructura deberá estar correctamente documentada. | N-09 · Mantenimiento del sistema | Media |
+| RNF-08 | El sistema deberá facilitar la monitorización y el mantenimiento desde un punto central: Sistemas (D9) deberá poder ver el estado de servidores, red y servicios y administrarlos sin desplazarse a cada equipo. | N-09 · Detectar fallos a tiempo | Alta |
+| RNF-09 | La infraestructura deberá estar correctamente documentada (equipos, red, servicios, usuarios y procedimientos de copia y restauración), y la documentación se actualizará con cada cambio para que cualquier miembro de D9 pueda mantenerla. | N-09 · Mantenimiento del sistema | Media |
 | RNF-10 | El registro de jornada deberá cumplir la normativa laboral de fichaje. | N-03 · Sanciones por incumplir el fichaje | Media |
+| RNF-11 | El sistema deberá permitir futuras ampliaciones (más trabajadores y terminales en campaña, más marcas, canales y datos, o una segunda nave) sin tener que rehacer la red ni los servidores; para ello se dimensionará con margen y se organizará por departamentos y servicios. | N-10 · Más marcas y canales; N-11 · Más pedidos en el almacén (B4, pregunta 6 y oportunidad 7) | Alta |
