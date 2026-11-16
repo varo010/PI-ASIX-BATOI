@@ -2,11 +2,11 @@
 
 Cada requisito sale de una o varias necesidades de B3 y tiene su misma prioridad (la más alta, si cubre varias). Ninguno impone una marca o tecnología concreta.
 
-## 6.1. Requisitos funcionales
+## 7.6.1. Requisitos funcionales
 
 Indican qué deberá hacer el sistema.
 
-**Tabla 11.** Requisitos funcionales
+**Tabla 8.** Requisitos funcionales
 
 | Código | Requisito | Necesidad que cubre | Prioridad |
 |---|---|---|---|
@@ -28,11 +28,11 @@ Indican qué deberá hacer el sistema.
 | RF-16 | El sistema deberá ofrecer acceso a Internet a los visitantes sin darles acceso a ningún recurso interno. | N-15 · Separación del tráfico de invitados | Media |
 | RF-17 | El sistema deberá permitir la comunicación interna entre todos los departamentos, y en especial entre las oficinas y el almacén, mediante un canal de comunicación interno accesible con la cuenta de cada trabajador. | N-11 · Stock y pedidos en el almacén; N-12 · Estado de pedidos e incidencias (B3, necesidad general 3; B4, MI-3) | Alta |
 
-## 6.2. Requisitos no funcionales
+## 7.6.2. Requisitos no funcionales
 
 Indican cómo debe comportarse el sistema o qué características generales debe tener.
 
-**Tabla 12.** Requisitos no funcionales
+**Tabla 9.** Requisitos no funcionales
 
 | Código | Requisito | Necesidad que cubre | Prioridad |
 |---|---|---|---|
@@ -48,11 +48,11 @@ Indican cómo debe comportarse el sistema o qué características generales debe
 | RNF-10 | El registro de jornada deberá cumplir la normativa laboral de fichaje: guardar la hora de inicio y de fin de cada jornada de cada trabajador, conservar los registros 4 años y tenerlos a disposición de los trabajadores, de sus representantes y de la Inspección de Trabajo (art. 34.9 del Estatuto de los Trabajadores, F8). | N-03 · Sanciones por incumplir el fichaje | Media |
 | RNF-11 | El sistema deberá permitir futuras ampliaciones (más trabajadores y terminales en campaña, más marcas, canales y datos, o una segunda nave) sin tener que rehacer la red ni los servidores: se deberán poder añadir puestos, dispositivos y servicios sin modificar los que ya funcionan. | N-10 · Más marcas y canales; N-11 · Más pedidos en el almacén (B4, P6 y MI-7) | Alta |
 
-## 6.3. Tabla de requisitos
+## 7.6.3. Tabla de requisitos
 
 Todos los requisitos del catálogo en una sola tabla. Los funcionales llevan el código **RF** y los no funcionales, **RNF**. La necesidad se indica siempre con su código y su nombre de B3, y la prioridad es la de esa necesidad (la más alta, si cubre varias). La última columna, **«Cómo se comprueba»**, da para cada requisito una prueba concreta que se podrá hacer cuando el sistema esté montado. Así cada requisito es medible y verificable.
 
-**Tabla 13.** Tabla de requisitos
+**Tabla 10.** Tabla de requisitos
 
 | Código | Requisito | Necesidad que cubre | Prioridad | Cómo se comprueba |
 |---|---|---|---|---|
@@ -92,12 +92,12 @@ Las cifras de los requisitos son **valores fijados por el grupo**, porque las fu
 Cada requisito se ha revisado con cinco criterios:
 
 1. **Claro y concreto:** dice exactamente qué se pide, sin expresiones como «debe funcionar bien».
-2. **Se puede comprobar:** tiene una cifra o una condición concreta y una prueba en la columna «Cómo se comprueba» de la tabla 13.
+2. **Se puede comprobar:** tiene una cifra o una condición concreta y una prueba en la columna «Cómo se comprueba» de la tabla 10.
 3. **Cubre una necesidad de B3:** cita al menos una necesidad N-01 a N-16.
 4. **No adelanta una decisión técnica:** no impone marcas, productos, modelos, direccionamiento ni configuraciones.
 5. **Prioridad coherente:** tiene la prioridad de su necesidad (la más alta, si cubre varias).
 
-**Tabla 14.** Control de calidad de los requisitos
+**Tabla 11.** Control de calidad de los requisitos
 
 | Código | Claro y concreto | Se puede comprobar | Cubre una necesidad de B3 | No adelanta una decisión técnica | Prioridad coherente | Nota |
 |---|---|---|---|---|---|---|
@@ -130,4 +130,4 @@ Cada requisito se ha revisado con cinco criterios:
 | RNF-10 | ✓ | ✓ | ✓ | ✓ | ✓ | Concretado: lo que exige el art. 34.9 del Estatuto de los Trabajadores (F8). |
 | RNF-11 | ✓ | ✓ | ✓ | ✓ | ✓ | Corregido: se quita «se dimensionará con margen», que no se podía comprobar y adelantaba el diseño. |
 
-En la revisión se corrigieron cuatro requisitos que no se podían comprobar (RF-12, RF-15, RNF-03 y RNF-11) y la prioridad de RNF-09. Después se añadieron cifras a RF-02, RF-05, RF-08, RF-14, RF-15, RNF-04, RNF-05 y RNF-10, y el segundo paso de verificación a RNF-06. Las correcciones también están aplicadas en las tablas 11 y 12. Tras ellas, los 28 requisitos cumplen los cinco criterios y tienen su prueba en la tabla 13.
+En la revisión se corrigieron cuatro requisitos que no se podían comprobar (RF-12, RF-15, RNF-03 y RNF-11) y la prioridad de RNF-09. Después se añadieron cifras a RF-02, RF-05, RF-08, RF-14, RF-15, RNF-04, RNF-05 y RNF-10, y el segundo paso de verificación a RNF-06. Las correcciones también están aplicadas en las tablas 8 y 9. Tras ellas, los 28 requisitos cumplen los cinco criterios y tienen su prueba en la tabla 10.

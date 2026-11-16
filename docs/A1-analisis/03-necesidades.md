@@ -13,7 +13,7 @@
 
 Los departamentos siguen el organigrama de B2 (D1-D9). En el primer borrador la tabla usaba 13 departamentos; las necesidades de Financiero, RRHH y Administración están ahora en D2, y las de Compras, Importación y Exportación en D7. Las filas «Transversal» afectan a toda la empresa y las atiende sobre todo D9.
 
-**Tabla 6.** Necesidades detectadas por departamento
+**Tabla 4.** Necesidades detectadas por departamento
 
 | Cód. | Departamento | Necesidad detectada | Problema o riesgo asociado | Prioridad |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ Para dar la prioridad nos hemos hecho tres preguntas sobre cada necesidad:
 2. **¿Puede hacer perder datos, dinero o la confianza de las marcas y los marketplaces?** Si es sí, también es Alta, aunque no pare el trabajo en el momento.
 3. **¿Solo hace el trabajo más lento o más incómodo?** Entonces es Media: conviene resolverla, pero la empresa puede seguir funcionando mientras tanto.
 
-**Tabla 6b.** Resumen de prioridades y por qué
+**Tabla 5.** Resumen de prioridades y por qué
 
 | Prioridad | Necesidades | Por qué tienen esa prioridad |
 |---|---|---|

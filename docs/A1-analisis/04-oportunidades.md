@@ -13,7 +13,7 @@ El bloque sigue este orden: primero las preguntas de mejora del enunciado (P1-P6
 
 Respondemos a las preguntas del enunciado pensando en cómo trabaja Grutinet (B1) y en sus departamentos (D1-D9, B2). Todavía no elegimos soluciones técnicas concretas. Solo decimos **qué** debería mejorar y **por qué**.
 
-**Tabla 7.** Preguntas de mejora del enunciado aplicadas a Grutinet
+**Tabla 6.** Preguntas de mejora del enunciado aplicadas a Grutinet
 
 | Pregunta | Respuesta para Grutinet | Departamentos implicados |
 |---|---|---|
@@ -113,7 +113,7 @@ Son tres. Cada una se justifica con datos de Grutinet (B1) y su fuente (F1-F8, v
 
 Grutinet es una empresa de venta en marketplaces con una sede única que reúne oficinas y almacén. Trabaja con marcas y fabricantes (B2B), con origen mayorista y de dropshipping, y llega a preparar unos 440 pedidos diarios solo en Shein. Toda su actividad depende de plataformas digitales, por lo que casi cualquier mejora pasa por las TIC.
 
-Cada mejora interna parte de una necesidad detectada en el Bloque 3 (apartado 7.3, tabla 6), con su código, su departamento y su prioridad. El problema o riesgo también procede de esa tabla.
+Cada mejora interna parte de una necesidad detectada en el Bloque 3 (apartado 7.3, tabla 4), con su código, su departamento y su prioridad. El problema o riesgo también procede de esa tabla.
 
 ### MI-1 · Centralizar la gestión de usuarios
 
@@ -187,9 +187,9 @@ Cada mejora interna parte de una necesidad detectada en el Bloque 3 (apartado 7.
 
 ### Mejoras internas adicionales: otras necesidades del Bloque 3
 
-Estas nueve necesidades de la tabla 6 no encajan en ninguna de las siete mejoras anteriores, por lo que se recogen aquí con su propia mejora (MI-8 a MI-16).
+Estas nueve necesidades de la tabla 4 no encajan en ninguna de las siete mejoras anteriores, por lo que se recogen aquí con su propia mejora (MI-8 a MI-16).
 
-**Tabla 8.** Mejoras internas adicionales
+**Tabla 7.** Mejoras internas adicionales
 
 | Cód. | Departamento | Necesidad del Bloque 3 | Problema o riesgo | Mejora interna | Prioridad |
 |---|---|---|---|---|---|

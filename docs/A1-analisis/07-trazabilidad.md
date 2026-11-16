@@ -1,10 +1,10 @@
-# Matriz de trazabilidad: necesidad → mejora u oportunidad → proyecto → requisito
+# 7.7. Matriz de trazabilidad: necesidad → mejora u oportunidad → proyecto → requisito
 
 La matriz une cada necesidad (B3) con la pregunta de mejora, la mejora interna y la oportunidad de negocio con las que se relaciona (B4), el elemento del proyecto que la resuelve (B5) y los requisitos que la cubren (B6). Así se ve la relación empresa → necesidades → proyecto → requisitos.
 
 En la columna de B4, **P1-P6** son las preguntas de mejora, **MI-1 a MI-16** son las mejoras internas y **ON-1 a ON-3** son las oportunidades de negocio. Todas las necesidades tienen al menos una mejora interna. Solo llevan oportunidad de negocio las necesidades que la hacen posible.
 
-**Tabla 15.** Matriz de trazabilidad
+**Tabla 12.** Matriz de trazabilidad
 
 | Necesidad (B3) | Prioridad | Pregunta, mejora interna y oportunidad de negocio (B4) | Elemento del proyecto (B5) | Requisitos (B6) |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ En la columna de B4, **P1-P6** son las preguntas de mejora, **MI-1 a MI-16** son
 
 ## Elementos del proyecto y requisitos
 
-**Tabla 16.** Requisitos en los que aparece cada elemento de B5
+**Tabla 13.** Requisitos en los que aparece cada elemento de B5
 
 | Elemento (B5) | Requisitos (B6) |
 |---|---|
@@ -47,4 +47,4 @@ En la columna de B4, **P1-P6** son las preguntas de mejora, **MI-1 a MI-16** son
 - [x] **Ninguna necesidad de prioridad alta se queda sin requisito.** Las 12 necesidades altas tienen al menos un requisito.
 - [x] **Ningún requisito aparece sin necesidad que lo justifique.** Los 17 RF y los 11 RNF citan al menos una necesidad de B3.
 - [x] **Todas las necesidades tienen mejora interna y todas las oportunidades de negocio aparecen en la matriz.** Las 16 necesidades citan al menos una mejora (MI-1 a MI-16) y las tres oportunidades de negocio (ON-1 a ON-3) aparecen en al menos una fila.
-- [x] **Los elementos del proyecto (B5) aparecen en los requisitos.** Los 10 elementos tienen al menos un requisito (tabla 16).
+- [x] **Los elementos del proyecto (B5) aparecen en los requisitos.** Los 10 elementos tienen al menos un requisito (tabla 13).
