@@ -4,7 +4,7 @@ La matriz une cada necesidad (B3) con la oportunidad de mejora de la que parte (
 
 En la columna de oportunidad, **P1-P6** son las preguntas de mejora de B4 y **O1-O4** son las oportunidades de mejora de B4.
 
-**Tabla 13.** Matriz de trazabilidad
+**Tabla 15.** Matriz de trazabilidad
 
 | Necesidad (B3) | Prioridad | Oportunidad (B4) | Elemento del proyecto (B5) | Requisitos (B6) |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ En la columna de oportunidad, **P1-P6** son las preguntas de mejora de B4 y **O1
 
 ## Elementos del proyecto y requisitos
 
-**Tabla 14.** Requisitos en los que aparece cada elemento de B5
+**Tabla 16.** Requisitos en los que aparece cada elemento de B5
 
 | Elemento (B5) | Requisitos (B6) |
 |---|---|
@@ -46,4 +46,4 @@ En la columna de oportunidad, **P1-P6** son las preguntas de mejora de B4 y **O1
 
 - [x] **Ninguna necesidad de prioridad alta se queda sin requisito.** Las 12 necesidades altas tienen al menos un requisito.
 - [x] **Ningún requisito aparece sin necesidad que lo justifique.** Los 17 RF y los 11 RNF citan al menos una necesidad de B3.
-- [x] **Los elementos del proyecto (B5) aparecen en los requisitos.** Los 10 elementos tienen al menos un requisito (tabla 14).
+- [x] **Los elementos del proyecto (B5) aparecen en los requisitos.** Los 10 elementos tienen al menos un requisito (tabla 16).
