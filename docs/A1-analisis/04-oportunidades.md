@@ -203,7 +203,7 @@ Estas nueve necesidades de la tabla 4 no encajan en ninguna de las siete mejoras
 | MI-15 | D5 · Marketing y Paid Media / D6 · Análisis de datos | N-05 · Disponer de datos de ventas centralizados y fiables | Decisiones comerciales basadas en datos erróneos y campañas con bajo retorno (ROI) | Unificar los datos de ventas de todos los canales como única fuente de verdad | Media |
 | MI-16 | D8 · Atención al cliente | N-12 · Acceso rápido y directo al estado de los pedidos y gestión de incidencias | Tiempos de respuesta lentos, insatisfacción del cliente B2B y pérdida de reputación | Consultar el estado de cualquier pedido y registrar las incidencias en un único lugar | Alta |
 
-Versión maquetada en PDF de la lista de oportunidades (con los nombres de departamento del primer borrador): [B4 · Lista de oportunidades de mejora – Grutinet](pdf/B4%20%C2%B7%20Lista%20de%20oportunidades%20de%20mejora%20%E2%80%93%20Grutinet.pdf).
+Versión maquetada en PDF: [B4 · Oportunidades de negocio y mejoras internas – Grutinet](pdf/B4%20%C2%B7%20Oportunidades%20de%20negocio%20y%20mejoras%20internas%20%E2%80%93%20Grutinet.pdf).
 
 ## Justificación del proyecto
 

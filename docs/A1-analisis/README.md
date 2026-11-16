@@ -22,15 +22,15 @@ Situación de aprendizaje SA1 «De las necesidades de la empresa al proyecto» �
 | Archivo | Bloque | Estado |
 |---|---|---|
 | [01-empresa.md](01-empresa.md) | B1 · Caracterización de la empresa | Hecho |
-| [fuentes.md](fuentes.md) | B1 · Fuentes consultadas y supuestos | Hecho |
+| [fuentes.md](fuentes.md) | Anexo B · Fuentes consultadas (F1-F8) y supuestos | Hecho |
 | [02-organizacion.md](02-organizacion.md) | B2 · Organización interna | Hecho: departamentos D1-D9, organigrama y tabla de organización |
 | [03-necesidades.md](03-necesidades.md) | B3 · Necesidades detectadas | Hecho: tabla por departamento (D1-D9) y priorización de riesgos |
-| [04-oportunidades.md](04-oportunidades.md) | B4 · Oportunidades de mejora y justificación | Hecho: preguntas de mejora, lista de oportunidades y justificación del Sistema Informático Empresarial |
+| [04-oportunidades.md](04-oportunidades.md) | B4 · Oportunidades de negocio, mejoras internas y justificación | Hecho: preguntas de mejora (P1-P6), oportunidades de negocio (ON-1 a ON-3), mejoras internas (MI-1 a MI-16) y justificación del Sistema Informático Empresarial |
 | [img/](img/) | Organigrama de Grutinet | Hecho |
 | [05-proyecto.md](05-proyecto.md) | B5 · Definición inicial del proyecto | Hecho (sesión 3) |
-| [06-requisitos.md](06-requisitos.md) | B6 · Catálogo inicial de requisitos | Hecho: 17 RF y 11 RNF, tabla de requisitos y control de calidad (sesiones 3 y 4) |
-| [07-trazabilidad.md](07-trazabilidad.md) | Matriz de trazabilidad necesidad → oportunidad → requisito | Hecho |
-| [pdf/](pdf/) | Versiones maquetadas en PDF de B2, B3, B4 y la sesión 2 | Hecho |
+| [06-requisitos.md](06-requisitos.md) | B6 · Catálogo inicial de requisitos | Hecho: 17 RF y 11 RNF, tabla de requisitos con la prueba de cada uno y control de calidad (sesiones 3 y 4) |
+| [07-trazabilidad.md](07-trazabilidad.md) | Matriz de trazabilidad necesidad → mejora u oportunidad → proyecto → requisito | Hecho |
+| [pdf/](pdf/) | Versiones maquetadas en PDF de B2, B3, B4, B5 y la sesión 2, generadas a partir de los `.md` actuales | Hecho (sesión 4) |
 | [bitacora-grupo.md](bitacora-grupo.md) | Bitácora de grupo | S1 a S4 hechas |
 | [Dossier en PDF](../../entregas/A1_Dossier_Grutinet_Grupo3.pdf) | Producto final de la actividad | Hecho (sesión 4) |
 

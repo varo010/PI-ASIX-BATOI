@@ -59,4 +59,4 @@ Además, el alcance incluye el acceso restringido de terceros (asesoría y audit
 
 Todo ello dimensionado con margen para crecer, sin decidir todavía marcas, modelos, direccionamiento ni configuraciones, tal como pide la actividad.
 
-Versión maquetada en PDF (con los nombres de departamento del primer borrador): [Definición inicial SIE-Grutinet](pdf/Definicion_inicial_SIE-Grutinet.pdf).
+Versión maquetada en PDF: [Definición inicial SIE-Grutinet](pdf/Definicion_inicial_SIE-Grutinet.pdf).

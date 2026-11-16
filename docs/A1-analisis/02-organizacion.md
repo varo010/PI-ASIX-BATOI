@@ -60,4 +60,4 @@ La tabla sigue los nueve departamentos del organigrama (D1-D9). En el primer bor
 | D8 | Atención al cliente | Responder a los compradores dentro de los plazos de cada marketplace, gestionar incidencias, devoluciones y reclamaciones y cuidar la reputación. | Agentes de Atención al Cliente, Gestor de Incidencias. | Estado de pedidos en tiempo real, histórico de consultas, expedientes de incidencias y valoraciones. | Logística, Marketplaces, Comercial, Administración y finanzas. |
 | D9 | Sistemas / Informática | Mantenimiento de equipos, red, cuentas de usuario y copias de seguridad, monitorización de los servicios y soporte técnico a toda la plantilla. | Responsable de Sistemas, Técnico de Soporte IT. | Registros de red, estado de los equipos y servicios, accesos de usuarios y copias de seguridad. | Transversal a todos los departamentos de la empresa. |
 
-Versión maquetada en PDF (primer borrador, con 13 departamentos): [Tabla de organización B2](pdf/Tabla%20de%20organizaci%C3%B3n%20B2.pdf).
+Versión maquetada en PDF: [Tabla de organización B2](pdf/Tabla%20de%20organizaci%C3%B3n%20B2.pdf).
