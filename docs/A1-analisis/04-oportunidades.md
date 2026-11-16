@@ -60,7 +60,9 @@ Respondemos a las preguntas del enunciado pensando en cómo trabaja Grutinet (B1
 - **Más marcas y más canales:** crecen el catálogo, los pedidos y los datos que hay que guardar y analizar.
 - **Más espacio:** si se amplía el almacén o se abre una segunda nave, habrá que conectarla con la primera sin rehacer todo el sistema.
 
-## Oportunidades de mejora
+## Oportunidades de negocio previsibles en el sector
+
+Además de las mejoras internas, el sector ofrece a Grutinet estas oportunidades de negocio (O1-O4):
 
 1. **Expandirse a nuevos mercados internacionales.** Vender en otros países le permitiría llegar a más consumidores, captar nuevas marcas y aumentar sus posibilidades de crecimiento.
 2. **Aprovechar el crecimiento del comercio electrónico para incorporar nuevos clientes y marketplaces.** Muchas empresas quieren vender por internet, pero no saben cómo gestionar todo el proceso. Grutinet puede ayudarlas ofreciendo sus servicios especializados y facilitándoles el acceso a nuevos canales de venta.

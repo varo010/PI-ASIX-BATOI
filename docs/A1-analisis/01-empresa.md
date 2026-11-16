@@ -26,6 +26,20 @@ La empresa se constituyó en 2001 y lleva más de dos décadas en el sector. Emp
 
 > **Nota del grupo:** en el primer borrador pusimos unos 70 trabajadores y una facturación de 2,5 a 8 M€. Al contrastarlo con los datos mercantiles (F4, F6) lo hemos corregido a 21-26 personas y unos 2,5 M€.
 
+## Clasificación de las empresas del sector
+
+Grutinet pertenece al **sector terciario** (servicios), dentro del **comercio electrónico**. Las empresas de este sector se pueden clasificar con varios criterios. En cada uno indicamos dónde queda Grutinet:
+
+| Criterio | Tipos de empresa en el sector | Dónde está Grutinet |
+|---|---|---|
+| Papel en la venta online | Marcas y fabricantes que venden su propio producto. Marketplaces (plataformas donde venden otras empresas). Tiendas online propias. Distribuidores y mayoristas online, incluido el dropshipping. Agencias que gestionan la venta de otras marcas. Operadores logísticos y transportistas. | Agencia que gestiona la venta de otras marcas en marketplaces, con logística propia. Empezó como distribuidora mayorista y de dropshipping (F1, F2). |
+| Tipo de cliente | B2C (venden al consumidor final). B2B (venden o dan servicio a otras empresas). | B2B: sus clientes son marcas y fabricantes. Al consumidor final llega de forma indirecta, a través del marketplace (F2). |
+| Tamaño (criterio de la Unión Europea) | Microempresa (menos de 10 trabajadores). Pequeña (menos de 50). Mediana (menos de 250). Grande (250 o más). | Pequeña empresa: entre 21 y 26 trabajadores y unos 2,5 M€ de facturación (F4, F6). |
+| Forma jurídica | Autónomos, sociedades limitadas (S.L.), sociedades anónimas (S.A.) y cooperativas. | Sociedad limitada (F4, F5). |
+| Ámbito | Local, nacional o internacional. | Un único centro en Ontinyent. Entre sus servicios está la expansión internacional de las marcas (F3). |
+
+En resumen, Grutinet es una **pequeña empresa de servicios B2B** del comercio electrónico. Se diferencia de la mayoría de agencias del sector en que tiene almacén y logística propios.
+
 ## Relación con clientes, proveedores y otras entidades
 
 Grutinet conecta a los fabricantes y las marcas con el consumidor final, y usa los marketplaces y las agencias de transporte como puentes operativos. En cada relación circula información distinta:

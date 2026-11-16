@@ -11,13 +11,14 @@ Repositorio del Proyecto Intermodular (PI) del grupo 3 de 1.º de ASIX del CIPFP
 ```
 docs/
   A1-analisis/      A1 · Análisis de la empresa y definición del proyecto
+entregas/           Documentos finales en PDF
 ```
 
 ## Actividades
 
 | Actividad | Contenido | Estado |
 |---|---|---|
-| [A1 · Análisis de la empresa y definición del proyecto](docs/A1-analisis/) | Dossier de análisis, necesidades y requisitos | En curso: B1, B3 y B4 (preguntas y oportunidades) hechos; B2 con tabla de organización; faltan el organigrama de B2, la justificación de B4, B5 y B6 |
+| [A1 · Análisis de la empresa y definición del proyecto](docs/A1-analisis/) | Dossier de análisis, necesidades y requisitos | Hecho: B1-B6, matriz de trazabilidad y [dossier final en PDF](entregas/A1_Dossier_Grutinet_Grupo3.pdf) |
 
 ## Forma de trabajo
 
