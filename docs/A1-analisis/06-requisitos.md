@@ -26,7 +26,7 @@ Indican qué deberá hacer el sistema.
 | RF-14 | El sistema deberá permitir supervisar el estado de servidores y dispositivos de red y avisar automáticamente cuando algo falle. | N-09 · Monitorización de red y servidores | Alta |
 | RF-15 | El sistema deberá hacer copias de seguridad automáticas de los datos al menos una vez al día, permitir restaurarlos y comprobar periódicamente que la restauración funciona. | N-16 · Copias de seguridad | Alta |
 | RF-16 | El sistema deberá ofrecer acceso a Internet a los visitantes sin darles acceso a ningún recurso interno. | N-15 · Separación del tráfico de invitados | Media |
-| RF-17 | El sistema deberá permitir la comunicación interna entre todos los departamentos, y en especial entre las oficinas y el almacén, mediante un canal de comunicación interno accesible con la cuenta de cada trabajador. | N-11 · Stock y pedidos en el almacén; N-12 · Estado de pedidos e incidencias (B3, necesidad general 3; B4, oportunidad 3) | Alta |
+| RF-17 | El sistema deberá permitir la comunicación interna entre todos los departamentos, y en especial entre las oficinas y el almacén, mediante un canal de comunicación interno accesible con la cuenta de cada trabajador. | N-11 · Stock y pedidos en el almacén; N-12 · Estado de pedidos e incidencias (B3, necesidad general 3; B4, MI-3) | Alta |
 
 ## 6.2. Requisitos no funcionales
 
@@ -46,7 +46,7 @@ Indican cómo debe comportarse el sistema o qué características generales debe
 | RNF-08 | El sistema deberá facilitar la monitorización y el mantenimiento desde un punto central: Sistemas (D9) deberá poder ver el estado de servidores, red y servicios y administrarlos sin desplazarse a cada equipo. | N-09 · Detectar fallos a tiempo | Alta |
 | RNF-09 | La infraestructura deberá estar correctamente documentada (equipos, red, servicios, usuarios y procedimientos de copia y restauración), y la documentación se actualizará con cada cambio para que cualquier miembro de D9 pueda mantenerla. | N-09 · Mantenimiento del sistema | Alta |
 | RNF-10 | El registro de jornada deberá cumplir la normativa laboral de fichaje. | N-03 · Sanciones por incumplir el fichaje | Media |
-| RNF-11 | El sistema deberá permitir futuras ampliaciones (más trabajadores y terminales en campaña, más marcas, canales y datos, o una segunda nave) sin tener que rehacer la red ni los servidores: se deberán poder añadir puestos, dispositivos y servicios sin modificar los que ya funcionan. | N-10 · Más marcas y canales; N-11 · Más pedidos en el almacén (B4, pregunta 6 y oportunidad 7) | Alta |
+| RNF-11 | El sistema deberá permitir futuras ampliaciones (más trabajadores y terminales en campaña, más marcas, canales y datos, o una segunda nave) sin tener que rehacer la red ni los servidores: se deberán poder añadir puestos, dispositivos y servicios sin modificar los que ya funcionan. | N-10 · Más marcas y canales; N-11 · Más pedidos en el almacén (B4, P6 y MI-7) | Alta |
 
 ## 6.3. Tabla de requisitos
 
